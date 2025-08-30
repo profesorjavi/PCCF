@@ -7,12 +7,16 @@
 Es un módulo de {{ modulo.horas }} horas que se imparte en el Ciclo de Grado Medio de 
 Técnico en Sistemas Microinformáticos y Redes.
 
+{% if modulo.UnidadesCompetenciaAcreditadas|count > 1 %}
+
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
 | Unidad de Competencia | Descripción |
 |-----------------------|-------------|{% for uca in modulo.UnidadesCompetenciaAcreditadas %}
-| {{ uca }} | {{ modulo.UnidadesCompetenciaAcreditadas[uca] }} |
-{% endfor %}
+| {{ uca }} | {{ modulo.UnidadesCompetenciaAcreditadas[uca] }} |{% endfor %}
+|<img width=200/>|<img width=500/>|
+
+{% endif %}
 
 ## Resultados de Aprendizaje
 
