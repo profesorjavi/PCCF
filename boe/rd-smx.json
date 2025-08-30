@@ -422,7 +422,11 @@
     "0221":{
             "nombre":"Montaje y mantenimiento de equipos",
             "horas": "233",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0957_2": "Mantener y regular el subsistema físico en sistemas informáticos.",
+                "UC0954_2": "Reparar y ampliar equipamiento microinformático.",
+                "UC0953_2": "Montar equipos microinformáticos."
+            },
             "ObjetivosGenerales" : ["a", "b", "c", "g", "h", "i", "j", "k" , "l"],
             "CompetenciasTitulo" : ["a", "b", "g", "h", "i", "j", "k" , "l"],
             "creditos":"-",
@@ -518,7 +522,10 @@
     "0222":{
             "nombre":"Sistemas operativos monopuesto",
             "horas": "133",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0219_2": "Instalar y configurar el software base en sistemas microinformáticos.",
+                "UC0958_2": "Ejecutar procedimientos de administración y mantenimiento en el software base y de aplicación de cliente."
+            },
             "ObjetivosGenerales" : [ "a", "c", "g", "h", "i", "j", "k", "l" , "m"],
             "CompetenciasTitulo" : ["a", "c", "g", "h", "k", "l", "m", "n", "ñ" , "r"],
             "creditos":"-",
@@ -586,7 +593,9 @@
     "0223":{
             "nombre":"Aplicaciones ofimáticas",
             "horas": "233",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0222_2":"Facilitar al usuario la utilización de paquetes informáticos de propósito general y aplicaciones específicas.", "UC0221_2":"Instalar, configurar y mantener paquetes informáticos de propósito general y aplicaciones específicas.}"
+            },
             "ObjetivosGenerales" : ["a","c","g","h","i","k","l","m","n","o"],
             "CompetenciasTitulo" : ["a","c","f","g","h","j","k","l","m","n","ñ","p","r"],
             "creditos":"-",
@@ -767,7 +776,10 @@
     "0226":{
             "nombre":"Seguridad informática",
             "horas": "133",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0958_2": "Ejecutar procedimientos de administración y mantenimiento en el software base y de aplicación de cliente.",
+                "UC0959_2": "Mantener la seguridad de los subsistemas físicos y lógicos en sistemas informáticos."
+            },
             "ObjetivosGenerales" : ["a","c","d","e","g","k","l"],
             "CompetenciasTitulo" : ["a","c","i","j","l","n","o","p","t"],
             "creditos":"-",
@@ -834,7 +846,10 @@
     "0227":{
             "nombre":"Servicios en red",
             "horas": "233",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+            "UC0955_2":"Monitorizar los procesos de comunicaciones de la red local.",
+            "UC0956_2":"Realizar los procesos de conexión entre redes privadas y redes públicas."
+            },
             "ObjetivosGenerales" : ["d","f","h","i","k","l","m"],
             "CompetenciasTitulo" : ["a","d","e","f","g","j","m","ñ","r"],
             "creditos":"-",
