@@ -258,7 +258,9 @@
         "0369":{
             "nombre":"Implantación de Sistemas Operativos",
             "horas": "233",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                        "UC0485_3": "Instalar, configurar y administrar el software de base y de aplicación del sistema."
+            },
             "ObjetivosGenerales" : ["a","b","j","l","m","n","ñ","o","p"],
             "CompetenciasTitulo" : ["a","e","g","","f","k","ñ"],
             "creditos":"15",
@@ -785,7 +787,9 @@
         "0372":{
             "nombre":"Gestión de Base de Datos",
             "horas": "166",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                        "UC0225_3": "Configurar y gestionar la base de datos."
+            },
             "ObjetivosGenerales" : ["d","e","m"],
             "CompetenciasTitulo" : ["c","d","m"],
             "creditos":"11",
@@ -862,7 +866,10 @@
         "0374":{
             "nombre":"Administración de Sistemas Operativos",
             "horas": "133",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                        "UC0490_3": "Gestionar servicios en el sistema informático.",
+                        "UC0485_3": "Instalar, configurar y administrar el software de base y de aplicación del sistema."
+            },
             "ObjetivosGenerales" : ["a", "b", "n", "ñ", "o" , "q" ],
             "CompetenciasTitulo" : ["a", "l", "m", "n", "ñ", "o", "q", "r", "s"],
             "creditos":"8",
@@ -957,7 +964,11 @@
         "0375":{
                     "nombre":"Servicios de Red e Internet",
                     "horas": "166",
-                    "UnidadesCompetenciaAcreditadas" : {},
+                    "UnidadesCompetenciaAcreditadas" : {
+                        "UC0495_3": "Instalar, configurar y administrar el software para gestionar un entorno Web.",
+                        "UC0496_3": "Instalar, configurar y administrar servicios de mensajería electrónica.",
+                        "UC0497_3": "Instalar, configurar y administrar servicios de transferencia de archivos y multimedia."
+                    },
                     "ObjetivosGenerales" : ["a", "c", "n", "ñ", "o", "r" ,"s"],
                     "CompetenciasTitulo" : ["b", "m", "n", "ñ", "o","q"],
                     "creditos":"8",
@@ -1065,7 +1076,9 @@
         "0376":{
             "nombre":"Implantación de Aplicaciones Web",
             "horas": "133",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0493_3": "Implementar, verificar y documentar aplicaciones Web en entornos Internet, intranet y extranet."
+            },
             "ObjetivosGenerales" : ["c", "e", "l", "m", "o", "p", "r" , "s"],
             "CompetenciasTitulo" : ["a", "b", "c", "d", "k", "l", "o", "r" ,"s"],
             "creditos":"6",
@@ -1156,7 +1169,9 @@
 
             "nombre":"Administración de Sistemas Gestores de Bases de Datos",
             "horas": "67",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0224_3": "Configurar y gestionar un sistema gestor de bases de datos."
+            },
             "ObjetivosGenerales" : ["d", "e", "j", "n", "ñ" ],
             "CompetenciasTitulo" : ["b", "d", "k", "l", "m" ],
             "creditos":"5",
@@ -1236,7 +1251,9 @@
         "0378":{
             "nombre":"Seguridad y Alta Disponibilidad.",
             "horas": "133",
-            "UnidadesCompetenciaAcreditadas" : {},
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0486_3": "Asegurar equipos informáticos."
+            },
             "ObjetivosGenerales" : ["j", "k", "l", "m", "o",  "p"],
             "CompetenciasTitulo" : [ "e", "f","i", "j", "k", "m", "n", "o", "r" , "s" ],
             "creditos":"6",
