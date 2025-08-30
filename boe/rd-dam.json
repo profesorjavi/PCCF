@@ -416,7 +416,9 @@
                                     }}
             },
                 "horas": "266",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0227_3":"Desarrollar componentes software en lenguajes de programación orientados a objetos."
+                },
                 "ObjetivosGenerales ": ["e","j","q","w"],
                 "CompetenciasTitulo" : ["e","j","t","w"]
         },
@@ -727,7 +729,9 @@
 
     },
                 "horas": "133",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0227_3":"Desarrollar componentes software en lenguajes de programación orientados a objetos."
+                },
                 "ObjetivosGenerales ": ["b","c","e","f","l","p","r","t"],
                 "CompetenciasTitulo" : ["b","c","e","f","l","p","r","t"]
         },
@@ -825,7 +829,9 @@
 
     },
                 "horas": "166",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0494_3":"Desarrollar componentes software en lenguajes de programación estructurada."
+                },
                 "ObjetivosGenerales ": ["d","e","f","g","h","i","j","k","l","m","r","s","t","w"],
                 "CompetenciasTitulo" : ["d","e","f","g","h","i","j","k","l","m","r","s","t","w"]
         },
@@ -968,7 +974,9 @@
                     }
                 },
                 "horas": "67",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                "UC0964_3":"Crear elementos software para la gestión del sistema y sus recursos."
+                },
                 "ObjetivosGenerales ": ["b","e","i","j","l","n","ñ","t","w"],
                 "CompetenciasTitulo" : ["b","e","i","j","l","n","ñ","t","w" ]
         },
@@ -1035,7 +1043,9 @@
 
                 },
                 "horas": "133",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC1213_3":"Instalar y configurar sistemas de planificación de recursos empresariales y de gestión de relaciones con clientes."
+                },
                 "ObjetivosGenerales ": ["a","b","c","e","f","l","o","p","q","r","t","u","w"],
                 "CompetenciasTitulo" : ["a","b","c","e","f","l","o","p","q","r","t","u","w"]
         },
