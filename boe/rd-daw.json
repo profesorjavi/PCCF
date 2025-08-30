@@ -456,7 +456,9 @@
                                     }}
             },
                 "horas": "266",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0227_3":"Desarrollar componentes software en lenguajes de programación orientados a objetos."
+                },
                 "ObjetivosGenerales ": ["e","j","q","w"],
                 "CompetenciasTitulo" : ["e","j","t","w"]
                 },
@@ -795,7 +797,9 @@
 
     },
                 "horas": "200",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0492_3":"Desarrollar elementos software en el entorno servidor."
+                },
                 "ObjetivosGenerales ": ["c","d","f","g","h","l","m","n","ñ","q","s","t"],
                 "CompetenciasTitulo" : ["c","d","f","g","h","j","k","l","m","n","ñ","q"]
         },
@@ -877,7 +881,9 @@
             }
     },
                 "horas": "100",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0493_3":"Implementar, verificar y documentar aplicaciones web en entornos internet, intranet y extranet."
+                },
                 "ObjetivosGenerales ": ["c","d","o","p","r"],
                 "CompetenciasTitulo" : ["a","b","c","j","n","ñ","q"]
         },
@@ -953,7 +959,9 @@
 
                 },
                 "horas": "133",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0491_3":"Desarrollar elementos software en el entorno cliente."
+                },
                 "ObjetivosGenerales ": ["i","j","k","q","x","y"],
                 "CompetenciasTitulo" : ["e","g","h","i","m","n","u"]
         },
@@ -1045,7 +1053,9 @@
 
                 },
                 "horas": "200",
-                "UnidadesCompetenciaAcreditadas": {},
+                "UnidadesCompetenciaAcreditadas": {
+                    "UC0491_3":"Desarrollar elementos software en el entorno cliente."
+                },
                 "ObjetivosGenerales ": ["f","g","i","q","r"],
                 "CompetenciasTitulo" : ["e","k","m","n","p","r" ]
         },
