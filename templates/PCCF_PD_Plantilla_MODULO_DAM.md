@@ -29,6 +29,8 @@ Los **Resultados de Aprendizaje** relativos al módulo de {{modulo.nombre}} son:
 | {{ ra }} | {{ modulo.ResultadosAprendizaje[ra].Resultado }} |{% endfor %}
 |<img width=200/>|<img width=500/>|
 
+{% if modulo.ObjetivosGenerales|count > 0 %}
+
 ## Objetivos Generales 
 
 La formación del módulo contribuye a alcanzar los *Objetivos Generales del Ciclo* siguientes:
@@ -38,6 +40,10 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 | {{ obj }} | {{ modulo.OG[obj] }} |{% endfor %}
 |<img width=100/>|<img width=500/>|
 
+{% endif %}
+
+
+{% if modulo.CompetenciasTitulo|count > 0 %}
 
 ## Competencias del Título 
 
@@ -47,6 +53,8 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 |----|----------------------------|{% for com in modulo.CompetenciasTitulo %}
 | {{ com }} | {{ modulo.CPSS[com] }} |{% endfor %}
 |<img width=100/>|<img width=500/>|
+
+{% endif %}
 
 ## Secuenciación de las Unidades de Programación. 
 
