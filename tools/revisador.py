@@ -55,6 +55,17 @@ if len(sys.argv) != 3 and sys.argv[3] == "--competencias":
                 print("Competencia Comun : "+text_comp_dest)
     sys.exit(0)
 
+if len(sys.argv) != 3 and sys.argv[3] == "--UnidadesCompetenciaAcreditadas":
+
+    for cod_orig in data_box1.ModulosProfesionales:
+        modulo_orig = data_box1.ModulosProfesionales[cod_orig]
+        print(" * ["+modulo_orig.nombre+"]")
+        try:
+            print("convalidaciones :"+str(modulo_orig.UnidadesCompetenciaAcreditadas))
+        except AttributeError as e:
+            print(" No tiene "+str(e))
+    sys.exit(0)
+
 if len(sys.argv) != 3 and sys.argv[3] == "--competencias-modulos":
 
     for cod_orig in data_box1.ModulosProfesionales:
