@@ -9,7 +9,7 @@ Técnico en Administración de Sistemas Informáticos y Redes.
 
 Tiene una correspondéncia de Créditos de {{ modulo.creditos}}.
 
-{% if modulo.UnidadesCompetenciaAcreditadas|count > 1 %}
+{% if modulo.UnidadesCompetenciaAcreditadas|count > 0 %}
 
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 

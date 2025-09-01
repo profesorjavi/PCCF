@@ -7,7 +7,7 @@
 Es un módulo de {{ modulo.horas }} horas que se imparte en el Ciclo de Grado Medio de 
 Técnico en Sistemas Microinformáticos y Redes.
 
-{% if modulo.UnidadesCompetenciaAcreditadas|count > 1 %}
+{% if modulo.UnidadesCompetenciaAcreditadas|count > 0 %}
 
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
