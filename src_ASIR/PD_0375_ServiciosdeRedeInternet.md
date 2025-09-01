@@ -76,10 +76,14 @@ Se propone esta tabla
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Construye Terraformadores  | 08/09/2025| 10/10/2025|
+| 02     | UP02: Configura Terraformadores     | 15/09/2025| 21/10/2025|
+| 03     | UP03: Primer cliente   | 20/10/2025| 10/12/2025|
+| 04     | UP04: DHCP en alta disponibilidad   | 5/11/2025| 18/12/2025|
+| 05     | UP05: Servidor de hosting   | 10/01/2025| 30/01/2025|
+| 06     | UP06: Servidor de streaming   | 20/01/2025| 20/02/2025|
+| 07     | UP06: Servidor de mensajeria   | 20/02/2025| 10/03/2025|
+| 08     | UP06: Servidor de correo   | 20/02/2025| 10/03/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -165,7 +169,8 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+Nota final = 0,2*(RA1+RA2)+0,25*(RA3) + 0,05*(RA4+RA6+RA7)+0,1*(RA5+RA8)
+
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -208,9 +213,15 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
+La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve a cabo de forma compartida entre la empresa y el instituto se determinará en función de la proporción de horas realizadas en cada uno de los ámbitos. En ambos casos, la valoración se expresará en una escala de 1 a 10, ponderándose posteriormente según el número de horas desarrolladas en la empresa y en el instituto, respectivamente.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+* Si un RA se desarrolla en un 20 % en la empresa y en un 80 % en el instituto, la calificación final se obtendrá ponderando las notas asignadas en cada ámbito en esas proporciones.
+  *(Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 × 0,20) + (7 × 0,80) = 7,2).*
 
+* Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
+  *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
+
+ 
 ### Recuperación: 
 
 Para el alumnado que **no haya superado algún módulo o RA** se establecerá un **programa de recuperación individual** que se diseñará de forma diferenciada según periodos: 
@@ -236,7 +247,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+En este curso no se ha planificado ninduna actividad extraescolar
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
