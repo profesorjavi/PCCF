@@ -167,6 +167,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
 Nota final = 0,2*(RA1+RA2)+0,25*(RA3) + 0,05*(RA4+RA6+RA7)+0,1*(RA5+RA8)
+De cada RA se puntuará un 20% la parte práctica y un 80% a partir de una prueba objetiva
 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
