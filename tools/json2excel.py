@@ -217,6 +217,27 @@ for codigo in data_box.ModulosProfesionales:
 
     ws.column_dimensions[p_contenidos_col_l].width = 50
 
+    # Peticion de las Competencias
+
+    print(" - COMPETENCIAS - LISTA ")
+    p_complist_col=p_contenidos_col
+    p_complist_row=p_contenidos_row-6
+    ws.cell(column=p_complist_col,row=p_complist_row).value="CPROF"
+    try:
+        print(str(modulo.ObjetivosGenerales))
+    except Exception as e:
+        print(str(e))
+    try:
+        ws.cell(column=p_complist_col,row=p_complist_row+1).value=str(modulo.ObjetivosGenerales)
+    except Exception as e:
+        print(" No tiene Objetivos Generales")
+
+    ws.cell(column=p_complist_col,row=p_complist_row+2).value="EMPLEA"
+    try:
+        ws.cell(column=p_complist_col,row=p_complist_row+3).value=str(modulo.CompetenciasTitulo)
+    except Exception as e:
+        print(" No tiene Objetivos CompetenciasTitulo")
+
 
     # Ahora ya seguimos para abajo
     p_ra_titulo_row=p_ra_titulo_row+2
