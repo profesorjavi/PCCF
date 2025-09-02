@@ -72,7 +72,7 @@ con lo que se pide en cada una de las secciones.
 
 #### Imports del PCCF
 
-Si se desea incluir alguno de los ficheros que conforman el texto refundido de los PCCFs, es tan sencillo
+Como se ve en las diferentes plantillas, si se desea incluir alguno de los ficheros que conforman el texto refundido de los PCCFs, es tan sencillo
 como poner el nombre del fichero con tres `@` delante, y el *compilador* se encarga de introducir el texto 
 en la Programación Didáctica del Módulo.
 
