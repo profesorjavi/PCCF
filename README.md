@@ -99,6 +99,8 @@ secuenciaciones de horas adecuadas. Cuando todo el departamento haya rellenado l
 pesos y horas, se construirán las diferentes Programaciones Didácticas estableciendo como última página del PDF
 la hoja respectiva de su módulo. 
 
+Se han añadido las listas de las Competencias Profesionales y Sociales.
+
 ---
 
 ## Descripción de las utilidades
