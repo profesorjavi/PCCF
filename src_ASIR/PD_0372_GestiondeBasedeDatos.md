@@ -1,38 +1,37 @@
 \newpage
 
-# Programación didáctica: Módulo Sistemas Informáticos
+# Programación didáctica: Módulo Gestión de Base de Datos
 
 ## Datos identificativos y contextualización del módulo. 
 
 Es un módulo de 166 horas que se imparte en el Ciclo de Grado Superior de 
-Técnico en Desarrollo de Aplicaciones Web.
+Técnico en Administración de Sistemas Informáticos y Redes.
 
-Tiene una correspondéncia de Créditos de 10.
+Tiene una correspondéncia de Créditos de 11.
 
 
 
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
-| Código| Descripción del estándar       |
-|-------|--------------------------------|
-| UC0223_3 | Configurar y explotar sistemas informáticos. |
+|Código| Descripción del estándar |
+|-----------------------|-------------|
+| UC0225_3 | Configurar y gestionar la base de datos. |
 |<img width=200/>|<img width=500/>|
 
 
 
 ## Resultados de Aprendizaje
 
-Los **Resultados de Aprendizaje** relativos al módulo de Sistemas Informáticos son:
+Los **Resultados de Aprendizaje** relativos al módulo de Gestión de Base de Datos son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 | Evalúa sistemas informáticos, identificando sus componentes y características. |
-| RA02 | Instala sistemas operativos planificando el proceso e interpretando documentación técnica. |
-| RA03 | Gestiona la información del sistema identificando las estructuras de almacenamiento y aplicando medidas para asegurar la integridad de los datos. |
-| RA04 | Gestiona sistemas operativos utilizando comandos y herramientas gráficas y evaluando las necesidades del sistema. |
-| RA05 | Interconecta sistemas en red configurando dispositivos y protocolos. |
-| RA06 | Opera sistemas en red gestionando sus recursos e identificando las restricciones de seguridad existentes. |
-| RA07 | Elabora documentación valorando y utilizando aplicaciones informáticas de propósito general. |
+| RA01 |  Reconoce los elementos de las bases de datos analizando sus funciones y valorando la utilidad de sistemas gestores. |
+| RA02 |  Diseña modelos lógicos normalizados interpretando diagramas entidad/relación. |
+| RA03 |  Realiza el diseño físico de bases de datos utilizando asistentes, herramientas gráficas y el lenguaje de definición de datos. |
+| RA04 |  Consulta la información almacenada manejando asistentes, herramientas gráficas y el lenguaje de manipulación de datos. |
+| RA05 |  Modifica la información almacenada utilizando asistentes, herramientas gráficas y el lenguaje de manipulación de datos. |
+| RA06 |  Ejecuta tareas de aseguramiento de la información, analizándolas y aplicando mecanismos de salvaguarda y transferencia. |
 |<img width=200/>|<img width=500/>|
 
 
@@ -43,15 +42,10 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 
 | Obj| Objetivo General del Ciclo |
 |----|----------------------------|
-| a | Ajustar la configuración lógica analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos. |
-| b | Identificar las necesidades de seguridad verificando el plan preestablecido para aplicar técnicas y procedimientos relacionados. |
-| t | Tomar decisiones de forma fundamentada analizando las variables implicadas, integrando saberes de distinto ámbito y aceptando los riesgos y la posibilidad de equivocación en las mismas, para afrontar y resolver distintas situaciones, problemas o contingencias. |
-| u | Desarrollar técnicas de liderazgo, motivación, supervisión y comunicación en contextos de trabajo en grupo para facilitar la organización y coordinación de equipos de trabajo. |
-| v | Aplicar estrategias y técnicas de comunicación adaptándose a los contenidos que se van a transmitir, la finalidad y a las características de los receptores, para asegurar la eficacia en los procesos de comunicación. |
-| w | Evaluar situaciones de prevención de riesgos laborales y de protección ambiental, proponiendo y aplicando medidas de prevención personales y colectivas, de acuerdo a la normativa aplicable en los procesos del trabajo, para garantizar entornos seguros. |
-| x | Identificar y proponer las acciones profesionales necesarias para dar respuesta a la accesibilidad universal y al diseño para todos. |
+| d | Instalar y configurar software de gestión, siguiendo especificaciones y analizando entornos de aplicación, para administrar aplicaciones. |
+| e | Instalar y administrar software de gestión, relacionándolo con su explotación, para implantar y gestionar bases de datos. |
+| m | Aplicar técnicas de protección contra pérdidas de información, analizando planes de seguridad y necesidades de uso para asegurar los datos. |
 |<img width=100/>|<img width=500/>|
-
 
 
 
@@ -63,15 +57,9 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 | Obj| Competencia del Título |
 |----|----------------------------|
-| a | Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos. |
-| b | Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad. |
-| l | Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad. |
-| t |  Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales de acuerdo con lo establecido por la normativa y los objetivos de la empresa. |
-| u |  Supervisar y aplicar procedimientos de gestión de calidad, de accesibilidad universal y de diseño para todos, en las actividades profesionales incluidas en los procesos de producción o prestación de servicios. |
-| v |  Realizar la gestión básica para la creación y funcionamiento de una pequeña empresa y tener iniciativa en su actividad profesional con sentido de la responsabilidad social. |
-| w |  Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural. |
-| x |  |
-| y |  |
+| c | Administrar aplicaciones instalando y configurando el software, en condiciones de calidad para responder a las necesidades de la organización. |
+| d | Implantar y gestionar bases de datos instalando y administrando el software de gestión en condiciones de calidad, según las características de la explotación. |
+| m | Diagnosticar las disfunciones del sistema y adoptar las medidas correctivas para restablecer su funcionalidad. |
 |<img width=100/>|<img width=500/>|
 
 
@@ -250,7 +238,7 @@ A RELLENAR POR DOCENTE
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
-## Esquema General de Sistemas Informáticos
+## Esquema General de Gestión de Base de Datos
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 

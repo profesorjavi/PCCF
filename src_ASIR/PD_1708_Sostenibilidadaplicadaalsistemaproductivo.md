@@ -1,78 +1,31 @@
 \newpage
 
-# Programación didáctica: Módulo Sistemas Informáticos
+# Programación didáctica: Módulo Sostenibilidad aplicada al sistema productivo
 
 ## Datos identificativos y contextualización del módulo. 
 
-Es un módulo de 166 horas que se imparte en el Ciclo de Grado Superior de 
-Técnico en Desarrollo de Aplicaciones Web.
+Es un módulo de 34 horas que se imparte en el Ciclo de Grado Superior de 
+Técnico en Administración de Sistemas Informáticos y Redes.
 
-Tiene una correspondéncia de Créditos de 10.
-
-
-
-## Relación entre los estándares de competencia y los módulos del ciclo formativo
-
-| Código| Descripción del estándar       |
-|-------|--------------------------------|
-| UC0223_3 | Configurar y explotar sistemas informáticos. |
-|<img width=200/>|<img width=500/>|
+Tiene una correspondéncia de Créditos de 5.
 
 
 
 ## Resultados de Aprendizaje
 
-Los **Resultados de Aprendizaje** relativos al módulo de Sistemas Informáticos son:
+Los **Resultados de Aprendizaje** relativos al módulo de Sostenibilidad aplicada al sistema productivo son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 | Evalúa sistemas informáticos, identificando sus componentes y características. |
-| RA02 | Instala sistemas operativos planificando el proceso e interpretando documentación técnica. |
-| RA03 | Gestiona la información del sistema identificando las estructuras de almacenamiento y aplicando medidas para asegurar la integridad de los datos. |
-| RA04 | Gestiona sistemas operativos utilizando comandos y herramientas gráficas y evaluando las necesidades del sistema. |
-| RA05 | Interconecta sistemas en red configurando dispositivos y protocolos. |
-| RA06 | Opera sistemas en red gestionando sus recursos e identificando las restricciones de seguridad existentes. |
-| RA07 | Elabora documentación valorando y utilizando aplicaciones informáticas de propósito general. |
+| RA01 |  Identifica los aspectos ambientales, sociales y de gobernanza (ASG) relativos a la sostenibilidad teniendo en cuenta el concepto de desarrollo sostenible y los marcos internacionales que contribuyen a su consecución. |
+| RA02 |  Caracteriza los retos ambientales y sociales a los que se enfrenta la sociedad, describiendo los impactos sobre las personas y los sectores productivos y proponiendo acciones para minimizarlos. |
+| RA03 |  Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios. |
+| RA04 |  Propón productos y servicios responsables teniendo en cuenta los principios de la economía circular. |
+| RA05 |  Realiza actividades sostenibles minimizando el impacto de las mismas en el medio ambiente. |
+| RA06 |  Analiza un plan de sostenibilidad de una empresa del sector, identificando sus grupos de interés, los aspectos ASG materiales y justificando acciones para su gestión y medición. |
 |<img width=200/>|<img width=500/>|
 
 
-
-## Objetivos Generales 
-
-La formación del módulo contribuye a alcanzar los *Objetivos Generales del Ciclo* siguientes:
-
-| Obj| Objetivo General del Ciclo |
-|----|----------------------------|
-| a | Ajustar la configuración lógica analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos. |
-| b | Identificar las necesidades de seguridad verificando el plan preestablecido para aplicar técnicas y procedimientos relacionados. |
-| t | Tomar decisiones de forma fundamentada analizando las variables implicadas, integrando saberes de distinto ámbito y aceptando los riesgos y la posibilidad de equivocación en las mismas, para afrontar y resolver distintas situaciones, problemas o contingencias. |
-| u | Desarrollar técnicas de liderazgo, motivación, supervisión y comunicación en contextos de trabajo en grupo para facilitar la organización y coordinación de equipos de trabajo. |
-| v | Aplicar estrategias y técnicas de comunicación adaptándose a los contenidos que se van a transmitir, la finalidad y a las características de los receptores, para asegurar la eficacia en los procesos de comunicación. |
-| w | Evaluar situaciones de prevención de riesgos laborales y de protección ambiental, proponiendo y aplicando medidas de prevención personales y colectivas, de acuerdo a la normativa aplicable en los procesos del trabajo, para garantizar entornos seguros. |
-| x | Identificar y proponer las acciones profesionales necesarias para dar respuesta a la accesibilidad universal y al diseño para todos. |
-|<img width=100/>|<img width=500/>|
-
-
-
-
-
-
-## Competencias del Título 
-
-La formación del módulo contribuye a alcanzar las *Competencias del Título* siguientes:
-
-| Obj| Competencia del Título |
-|----|----------------------------|
-| a | Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos. |
-| b | Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad. |
-| l | Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad. |
-| t |  Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales de acuerdo con lo establecido por la normativa y los objetivos de la empresa. |
-| u |  Supervisar y aplicar procedimientos de gestión de calidad, de accesibilidad universal y de diseño para todos, en las actividades profesionales incluidas en los procesos de producción o prestación de servicios. |
-| v |  Realizar la gestión básica para la creación y funcionamiento de una pequeña empresa y tener iniciativa en su actividad profesional con sentido de la responsabilidad social. |
-| w |  Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural. |
-| x |  |
-| y |  |
-|<img width=100/>|<img width=500/>|
 
 
 
@@ -250,7 +203,7 @@ A RELLENAR POR DOCENTE
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
-## Esquema General de Sistemas Informáticos
+## Esquema General de Sostenibilidad aplicada al sistema productivo
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 

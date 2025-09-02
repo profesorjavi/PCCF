@@ -1,38 +1,38 @@
 \newpage
 
-# Programación didáctica: Módulo Sistemas Informáticos
+# Programación didáctica: Módulo Implantación de Aplicaciones Web
 
 ## Datos identificativos y contextualización del módulo. 
 
-Es un módulo de 166 horas que se imparte en el Ciclo de Grado Superior de 
-Técnico en Desarrollo de Aplicaciones Web.
+Es un módulo de 133 horas que se imparte en el Ciclo de Grado Superior de 
+Técnico en Administración de Sistemas Informáticos y Redes.
 
-Tiene una correspondéncia de Créditos de 10.
+Tiene una correspondéncia de Créditos de 6.
 
 
 
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
-| Código| Descripción del estándar       |
-|-------|--------------------------------|
-| UC0223_3 | Configurar y explotar sistemas informáticos. |
+|Código| Descripción del estándar |
+|-----------------------|-------------|
+| UC0493_3 | Implementar, verificar y documentar aplicaciones Web en entornos Internet, intranet y extranet. |
 |<img width=200/>|<img width=500/>|
 
 
 
 ## Resultados de Aprendizaje
 
-Los **Resultados de Aprendizaje** relativos al módulo de Sistemas Informáticos son:
+Los **Resultados de Aprendizaje** relativos al módulo de Implantación de Aplicaciones Web son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 | Evalúa sistemas informáticos, identificando sus componentes y características. |
-| RA02 | Instala sistemas operativos planificando el proceso e interpretando documentación técnica. |
-| RA03 | Gestiona la información del sistema identificando las estructuras de almacenamiento y aplicando medidas para asegurar la integridad de los datos. |
-| RA04 | Gestiona sistemas operativos utilizando comandos y herramientas gráficas y evaluando las necesidades del sistema. |
-| RA05 | Interconecta sistemas en red configurando dispositivos y protocolos. |
-| RA06 | Opera sistemas en red gestionando sus recursos e identificando las restricciones de seguridad existentes. |
-| RA07 | Elabora documentación valorando y utilizando aplicaciones informáticas de propósito general. |
+| RA01 |  Prepara el entorno de desarrollo y los servidores de aplicaciones Web instalando e integrando las funcionalidades necesarias. |
+| RA02 |  Implanta gestores de contenidos seleccionándolos y estableciendo la configuración de sus parámetros. |
+| RA03 |  Administra gestores de contenidos adaptándolos a los requerimientos y garantizando la integridad de la información. |
+| RA04 |  Gestiona aplicaciones de ofimática Web integrando funcionalidades y asegurando el acceso a la información. |
+| RA05 |  Genera documentos Web utilizando lenguajes de guiones de servidor. |
+| RA06 |  Genera documentos Web con acceso a bases de datos utilizando lenguajes de guiones de servidor. |
+| RA07 |  Realiza modificaciones en gestores de contenidos adaptando su apariencia y funcionalidades. |
 |<img width=200/>|<img width=500/>|
 
 
@@ -43,15 +43,15 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 
 | Obj| Objetivo General del Ciclo |
 |----|----------------------------|
-| a | Ajustar la configuración lógica analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos. |
-| b | Identificar las necesidades de seguridad verificando el plan preestablecido para aplicar técnicas y procedimientos relacionados. |
-| t | Tomar decisiones de forma fundamentada analizando las variables implicadas, integrando saberes de distinto ámbito y aceptando los riesgos y la posibilidad de equivocación en las mismas, para afrontar y resolver distintas situaciones, problemas o contingencias. |
-| u | Desarrollar técnicas de liderazgo, motivación, supervisión y comunicación en contextos de trabajo en grupo para facilitar la organización y coordinación de equipos de trabajo. |
-| v | Aplicar estrategias y técnicas de comunicación adaptándose a los contenidos que se van a transmitir, la finalidad y a las características de los receptores, para asegurar la eficacia en los procesos de comunicación. |
-| w | Evaluar situaciones de prevención de riesgos laborales y de protección ambiental, proponiendo y aplicando medidas de prevención personales y colectivas, de acuerdo a la normativa aplicable en los procesos del trabajo, para garantizar entornos seguros. |
-| x | Identificar y proponer las acciones profesionales necesarias para dar respuesta a la accesibilidad universal y al diseño para todos. |
+| c | Instalar y configurar software de mensajería y transferencia de ficheros, entre otros, relacionándolos con su aplicación y siguiendo documentación y especificaciones dadas, para administrar servicios de red. |
+| e | Instalar y administrar software de gestión, relacionándolo con su explotación, para implantar y gestionar bases de datos. |
+| l | Aplicar técnicas de protección contra amenazas externas, tipificándolas y evaluándolas para asegurar el sistema. |
+| m | Aplicar técnicas de protección contra pérdidas de información, analizando planes de seguridad y necesidades de uso para asegurar los datos. |
+| o | Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento. |
+| p | Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación. |
+| r | Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para gestionar su carrera profesional. |
+| s | Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa. |
 |<img width=100/>|<img width=500/>|
-
 
 
 
@@ -63,15 +63,15 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 | Obj| Competencia del Título |
 |----|----------------------------|
-| a | Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos. |
-| b | Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad. |
-| l | Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad. |
-| t |  Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales de acuerdo con lo establecido por la normativa y los objetivos de la empresa. |
-| u |  Supervisar y aplicar procedimientos de gestión de calidad, de accesibilidad universal y de diseño para todos, en las actividades profesionales incluidas en los procesos de producción o prestación de servicios. |
-| v |  Realizar la gestión básica para la creación y funcionamiento de una pequeña empresa y tener iniciativa en su actividad profesional con sentido de la responsabilidad social. |
-| w |  Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural. |
-| x |  |
-| y |  |
+| a | Administrar sistemas operativos de servidor, instalando y configurando el software, en condiciones de calidad para asegurar el funcionamiento del sistema. |
+| b | Administrar servicios de red (web, mensajería electrónica y transferencia de archivos, entre otros) instalando y configurando el software, en condiciones de calidad. |
+| c | Administrar aplicaciones instalando y configurando el software, en condiciones de calidad para responder a las necesidades de la organización. |
+| d | Implantar y gestionar bases de datos instalando y administrando el software de gestión en condiciones de calidad, según las características de la explotación. |
+| k | Asegurar el sistema y los datos según las necesidades de uso y las condiciones de seguridad establecidas para prevenir fallos y ataques externos. |
+| l | Administrar usuarios de acuerdo a las especificaciones de explotación para garantizar los accesos y la disponibilidad de los recursos del sistema. |
+| o | Mantener el espíritu de innovación y actualización en el ámbito de su trabajo para adaptarse a los cambios tecnológicos y organizativos de su entorno profesional. |
+| r | Gestionar su carrera profesional, analizando las oportunidades de empleo, autoempleo y de aprendizaje. |
+| s | Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable. |
 |<img width=100/>|<img width=500/>|
 
 
@@ -250,7 +250,7 @@ A RELLENAR POR DOCENTE
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
-## Esquema General de Sistemas Informáticos
+## Esquema General de Implantación de Aplicaciones Web
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 

@@ -9,15 +9,15 @@ Técnico en Desarrollo de Aplicaciones Web.
 
 Tiene una correspondéncia de Créditos de 14.
 
+
+
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
-| Unidad de Competencia | Descripción |
-|-----------------------|-------------|
-| UC0223_3 | Configurar y explotar sistemas informáticos. |
-| UC0226_3 | Programar bases de datos relacionales. |
-| UC0491_3 | Desarrollar elementos software en el entorno cliente. |
-| UC0492_3 | Desarrollar elementos software en el entorno servidor. |
-| UC0493_3 | Implementar, verificar y documentar aplicaciones web en entornos internet, intranet y extranet. |
+| Código| Descripción del estándar       |
+|-------|--------------------------------|
+| UC0227_3 | Desarrollar componentes software en lenguajes de programación orientados a objetos. |
+|<img width=200/>|<img width=500/>|
+
 
 
 ## Resultados de Aprendizaje
@@ -35,26 +35,53 @@ Los **Resultados de Aprendizaje** relativos al módulo de Programación son:
 | RA07 |  Desarrolla programas, aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación. |
 | RA08 |  Utiliza bases de datos orientadas a objetos, analizando sus características y aplicando técnicas para mantener la persistencia de la información. |
 | RA09 |  Gestiona información almacenada en bases de datos relacionales manteniendo la integridad y la consistencia de los datos. |
-|<div width=200/>|<div width=500/>|
+|<img width=200/>|<img width=500/>|
+
+
+
+## Objetivos Generales 
+
+La formación del módulo contribuye a alcanzar los *Objetivos Generales del Ciclo* siguientes:
+
+| Obj| Objetivo General del Ciclo |
+|----|----------------------------|
+| e | Interpretar el diseño lógico, verificando los parámetros establecidos para gestionar bases de datos. |
+| j | Emplear herramientas y lenguajes específicos, siguiendo las especificaciones, para desarrollar componentes multimedia. |
+| q | Programar y realizar actividades para gestionar el mantenimiento de los recursos informáticos. |
+| w | Evaluar situaciones de prevención de riesgos laborales y de protección ambiental, proponiendo y aplicando medidas de prevención personales y colectivas, de acuerdo a la normativa aplicable en los procesos del trabajo, para garantizar entornos seguros. |
+|<img width=100/>|<img width=500/>|
+
+
+
+
+
+
+## Competencias del Título 
+
+La formación del módulo contribuye a alcanzar las *Competencias del Título* siguientes:
+
+| Obj| Competencia del Título |
+|----|----------------------------|
+| e | Desarrollar aplicaciones web con acceso a bases de datos utilizando lenguajes, objetos de acceso y herramientas de mapeo adecuados a las especificaciones. |
+| j | Desarrollar e integrar componentes software en el entorno del servidor web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación. |
+| t |  Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales de acuerdo con lo establecido por la normativa y los objetivos de la empresa. |
+| w |  Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural. |
+|<img width=100/>|<img width=500/>|
+
+
 
 ## Secuenciación de las Unidades de Programación. 
 
+A RELLENAR POR DOCENTE
+
+Se propone esta tabla
+
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a la Programación y Java  | 08/09/2025| 22/09/2025|
-| 02     | UP02: Algoritmos     | 23/09/2025| 06/10/2025|
-| 03     | UP03: Programación estructurada   | 07/10/2025| 27/10/2025|
-| 04     | UP04: Estructuras estáticas   | 28/10/2025| 06/11/2025|
-| 05     | UP05: Programación modular     | 10/11/2025| 24/11/2025|
-| 06     | UP06: Recursividad   | 25/11/2025| 04/12/2025|
-| 07     | UP07: Estructuras dinámicas   | 05/12/2025| 22/12/2025|
-| 08     | UP08: Programación Orientada a Objetos     | 07/01/2026| 20/01/2026|
-| 09     | UP09: Programación Orientada a Objetos Avanzada   | 22/01/2026| 16/12/2026|
-| 10     | UP10: Excepciones   | 17/02/2026| 03/03/2026|
-| 11     | UP11: Ficheros     | 05/03/2026| 16/03/2026|
-| 12     | UP12: Acceso a datos   | 23/03/2026| 16/04/2026|
-| 13     | UP13: Interfaz Gráfica de Usuario   | 20/04/2026| 14/05/2026|
-| 14     | UP14: Aplicación y Proyecto de Programación     | 15/05/2026| 09/06/2026|
+| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
+| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
+| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
+| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -104,7 +131,7 @@ La evaluación es:
 
 El objetivo de la evaluación es la superación del módulo por parte del alumnado. Para ello, es imprescindible que **todos los RA estén aprobados**.
 
-Cada RA tiene un **peso ponderado** en la calificación final del módulo. Para su evaluación, se tendrán en cuenta los CE asociados, también ponderados, que deben convertirse en **indicadores de logro claros, precisos y observables**.
+Cada RA puede tener un **peso ponderado** en la calificación final del módulo. Para su evaluación, se tendrán en cuenta los CE asociados, también ponderados, que deben convertirse en **indicadores de logro claros, precisos y observables**.
 
 El **peso de los CE o RA** puede modificarse durante el curso si existe una justificación pedagógica. En tal caso, se informará al alumnado a través de los medios establecidos en esta guía.
 
@@ -211,13 +238,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-Se planifican las siguientes actividades complementarias y extraescolares:
--	ProgramaMe Navidad y Regional: Concurso de programación para el alumnado matriculado en Ciclos Formativos de Formación Profesional. Participan en equipos formados por tres estudiantes. Los problemas son aplicaciones de consola y el ganador es el equipo que resuelve correctamente más problemas con menos tiempo acumulado en sus envíos correctos.
--	ProgramaMe Nacional: Si se clasifican en el Regional de Valencia, el equipo clasificado acudirá en el mes de junio a la Facultad de Informática de la Universidad Complutense de Madrid para participar en la gran final del concurso de programación.
--	Participación en la Semana del Código
--	Recomendar lecturas científicas o ficticias, al igual que películas o documentales, con el fin de motivar al alumno.
--	Diferentes actividades que podrían surgir a lo largo de curso: visitas a centros de programación, empresas del sector, ponencias y congresos de Programación, etc.
-
+A RELLENAR POR DOCENTE
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 

@@ -1,78 +1,31 @@
 \newpage
 
-# Programación didáctica: Módulo Sistemas Informáticos
+# Programación didáctica: Módulo Introducción a la Programación
 
 ## Datos identificativos y contextualización del módulo. 
 
-Es un módulo de 166 horas que se imparte en el Ciclo de Grado Superior de 
-Técnico en Desarrollo de Aplicaciones Web.
+Es un módulo de 100 horas que se imparte en el Ciclo de Grado Superior de 
+Técnico en Administración de Sistemas Informáticos y Redes.
 
-Tiene una correspondéncia de Créditos de 10.
-
-
-
-## Relación entre los estándares de competencia y los módulos del ciclo formativo
-
-| Código| Descripción del estándar       |
-|-------|--------------------------------|
-| UC0223_3 | Configurar y explotar sistemas informáticos. |
-|<img width=200/>|<img width=500/>|
+Tiene una correspondéncia de Créditos de -.
 
 
 
 ## Resultados de Aprendizaje
 
-Los **Resultados de Aprendizaje** relativos al módulo de Sistemas Informáticos son:
+Los **Resultados de Aprendizaje** relativos al módulo de Introducción a la Programación son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 | Evalúa sistemas informáticos, identificando sus componentes y características. |
-| RA02 | Instala sistemas operativos planificando el proceso e interpretando documentación técnica. |
-| RA03 | Gestiona la información del sistema identificando las estructuras de almacenamiento y aplicando medidas para asegurar la integridad de los datos. |
-| RA04 | Gestiona sistemas operativos utilizando comandos y herramientas gráficas y evaluando las necesidades del sistema. |
-| RA05 | Interconecta sistemas en red configurando dispositivos y protocolos. |
-| RA06 | Opera sistemas en red gestionando sus recursos e identificando las restricciones de seguridad existentes. |
-| RA07 | Elabora documentación valorando y utilizando aplicaciones informáticas de propósito general. |
+| RA01 |  Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado. |
+| RA02 |  Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos. |
+| RA03 |  Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje. |
+| RA04 |  Desarrolla programas organizados en clases analizando y aplicando los principios de la programación orientada a objetos. |
+| RA05 |  Realiza operaciones de entrada y salida de información, utilizando procedimientos específicos del lenguaje y librerías de clases. |
+| RA06 |  Escribe programas que manipulen información, seleccionando y utilizando tipos avanzados de datos. |
 |<img width=200/>|<img width=500/>|
 
 
-
-## Objetivos Generales 
-
-La formación del módulo contribuye a alcanzar los *Objetivos Generales del Ciclo* siguientes:
-
-| Obj| Objetivo General del Ciclo |
-|----|----------------------------|
-| a | Ajustar la configuración lógica analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos. |
-| b | Identificar las necesidades de seguridad verificando el plan preestablecido para aplicar técnicas y procedimientos relacionados. |
-| t | Tomar decisiones de forma fundamentada analizando las variables implicadas, integrando saberes de distinto ámbito y aceptando los riesgos y la posibilidad de equivocación en las mismas, para afrontar y resolver distintas situaciones, problemas o contingencias. |
-| u | Desarrollar técnicas de liderazgo, motivación, supervisión y comunicación en contextos de trabajo en grupo para facilitar la organización y coordinación de equipos de trabajo. |
-| v | Aplicar estrategias y técnicas de comunicación adaptándose a los contenidos que se van a transmitir, la finalidad y a las características de los receptores, para asegurar la eficacia en los procesos de comunicación. |
-| w | Evaluar situaciones de prevención de riesgos laborales y de protección ambiental, proponiendo y aplicando medidas de prevención personales y colectivas, de acuerdo a la normativa aplicable en los procesos del trabajo, para garantizar entornos seguros. |
-| x | Identificar y proponer las acciones profesionales necesarias para dar respuesta a la accesibilidad universal y al diseño para todos. |
-|<img width=100/>|<img width=500/>|
-
-
-
-
-
-
-## Competencias del Título 
-
-La formación del módulo contribuye a alcanzar las *Competencias del Título* siguientes:
-
-| Obj| Competencia del Título |
-|----|----------------------------|
-| a | Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos. |
-| b | Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad. |
-| l | Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad. |
-| t |  Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales de acuerdo con lo establecido por la normativa y los objetivos de la empresa. |
-| u |  Supervisar y aplicar procedimientos de gestión de calidad, de accesibilidad universal y de diseño para todos, en las actividades profesionales incluidas en los procesos de producción o prestación de servicios. |
-| v |  Realizar la gestión básica para la creación y funcionamiento de una pequeña empresa y tener iniciativa en su actividad profesional con sentido de la responsabilidad social. |
-| w |  Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural. |
-| x |  |
-| y |  |
-|<img width=100/>|<img width=500/>|
 
 
 
@@ -250,7 +203,7 @@ A RELLENAR POR DOCENTE
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
-## Esquema General de Sistemas Informáticos
+## Esquema General de Introducción a la Programación
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 
