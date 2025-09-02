@@ -16,8 +16,6 @@ Tiene una correspondéncia de Créditos de 6.
 | UC0484_3 | Administrar los dispositivos hardware del sistema. |
 | UC0223_3 | Configurar y explotar sistemas informáticos. |
 
-
-
 ## Resultados de Aprendizaje
 
 Los **Resultados de Aprendizaje** relativos al módulo de Fundamentos de Hardware son:
@@ -29,20 +27,19 @@ Los **Resultados de Aprendizaje** relativos al módulo de Fundamentos de Hardwar
 | RA03 |  Ejecuta procedimientos para recuperar el software base de un equipo, analizándolos y utilizando imágenes almacenadas en memoria auxiliar. |
 | RA04 |  Implanta hardware específico de centros de proceso de datos (CPD), analizando sus características y aplicaciones. |
 | RA05 |  Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos. |
-|<img width=200/>|<img width=500/>|
 
 
 ## Secuenciación de las Unidades de Programación. 
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | SA01: La Base del Hardware          | 11/09/2025| 02/10/2025|
-| 02     | SA02: La Base del Software          | 16/10/2025| 30/10/2025|
-| 03     | SA03: El Hardware y sus problemas   | 06/11/2025| 27/11/2025|
-| 04     | SA04: El Software y sus problemas   | 04/12/2025| 15/01/2026|
-| 05     | SA05: Forenses                      | 22/01/2026| 05/03/2026|
-| 06     | SA06: Centros de Procesos de Datos  | 12/03/2026| 30/04/2026|
-| 07     | SA07: El Legado del Leviatán        | 07/05/2026| 04/06/2026|
+| 01     | UP01: La Base del Hardware          | 11/09/2025| 02/10/2025|
+| 02     | UP02: La Base del Software          | 16/10/2025| 30/10/2025|
+| 03     | UP03: El Hardware y sus problemas   | 06/11/2025| 27/11/2025|
+| 04     | UP04: El Software y sus problemas   | 04/12/2025| 15/01/2026|
+| 05     | UP05: Forenses                      | 22/01/2026| 05/03/2026|
+| 06     | UP06: Centros de Procesos de Datos  | 12/03/2026| 30/04/2026|
+| 07     | UP07: El Legado del Leviatán        | 07/05/2026| 04/06/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
