@@ -1099,6 +1099,91 @@
                     }
 
             }
+        },
+        "0225":{
+            "nombre":"Redes Locales",
+            "horas": "233",
+            "UnidadesCompetenciaAcreditadas" : {
+                "UC0220_2": "Instalar, configurar y verificar los elementos de la red local según procedimientos establecidos."
+            },
+            "ObjetivosGenerales" : ["a", "b", "d", "e", "f", "g", "h", "i", "j", "k" ,"l" ,"m"] ,
+            "CompetenciasTitulo" : ["c", "e", "f", "g", "h", "j", "l"],
+            "creditos":"-",
+            "ResultadosAprendizaje":{
+                "RA01": {
+                    "Resultado": " Reconoce la estructura de redes locales cableadas analizando las características de entornos de aplicación y describiendo la funcionalidad de sus componentes.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se han descrito los principios de funcionamiento de las redes locales.",
+                                "b": "Se han identificado los distintos tipos de redes.",
+                                "c": "Se han descrito los elementos de la red local y su función.",
+                                "d": "Se han identificado y clasificado los medios de transmisión.",
+                                "e": "Se ha reconocido el mapa físico de la red local.",
+                                "f": "Se han utilizado aplicaciones para representar el mapa físico de la red local.",
+                                "g": "Se han reconocido las distintas topologías de red.",
+                                "h": "Se han identificado estructuras alternativas."}},
+"RA02": {
+                    "Resultado": " Despliega el cableado de una red local interpretando especificaciones y aplicando técnicas de montaje.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se han reconocido los principios funcionales de las redes locales.",
+                                "b": "Se han identificado los distintos tipos de redes.",
+                                "c": "Se han diferenciado los medios de transmisión.",
+                                "d": "Se han reconocido los detalles del cableado de la instalación y su despliegue (categoría del cableado, espacios por los que discurre, soporte para las canalizaciones, entre otros)",
+                                "e": "Se han seleccionado y montado las canalizaciones y tubos.",
+                                "f": "Se han montado los armarios de comunicaciones y sus accesorios.",
+                                "g": "Se han montado y conexionado las tomas de usuario y paneles de parcheo.",
+                                "h": "Se han probado las líneas de comunicación entre las tomas de usuario y paneles de parcheo.",
+                                "i": "Se han etiquetado los cables y tomas de usuario.",
+                                "j": "Se ha trabajado con la calidad y seguridad requeridas."}},
+"RA03": {
+                    "Resultado": " Interconecta equipos en redes locales cableadas describiendo estándares de cableado y aplicando técnicas de montaje de conectores.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se ha interpretado el plan de montaje lógico de la red.",
+                                "b": "Se han montado los adaptadores de red en los equipos.",
+                                "c": "Se han montado conectores sobre cables (cobre y fibra) de red.",
+                                "d": "Se han montado los equipos de conmutación en los armarios de comunicaciones.",
+                                "e": "Se han conectado los equipos de conmutación a los paneles de parcheo.",
+                                "f": "Se ha verificado la conectividad de la instalación.",
+                                "g": "Se ha trabajado con la calidad requerida."}},
+"RA04": {
+                    "Resultado": " Instala equipos en red, describiendo sus prestaciones y aplicando técnicas de montaje.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se han identificado las características funcionales de las redes inalámbricas.",
+                                "b": "Se han identificado los modos de funcionamiento de las redes inalámbricas.",
+                                "c": "Se han instalado adaptadores y puntos de acceso inalámbrico.",
+                                "d": "Se han configurado los modos de funcionamiento y los parámetros básicos.",
+                                "e": "Se ha comprobado la conectividad entre diversos dispositivos y adaptadores inalámbricos.",
+                                "f": "Se ha instalado el software correspondiente.",
+                                "g": "Se han identificado los protocolos.",
+                                "h": "Se han configurado los parámetros básicos.",
+                                "i": "Se han aplicado mecanismos básicos de seguridad.",
+                                "j": "Se han creado y configurado VLANS."}},
+"RA05": {
+                    "Resultado": " Mantiene una red local interpretando recomendaciones de los fabricantes de hardware o software y estableciendo la relación entre disfunciones y sus causas.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se han identificado incidencias y comportamientos anómalos.",
+                                "b": "Se ha identificado si la disfunción es debida al hardware o al software.",
+                                "c": "Se han monitorizado las señales visuales de los dispositivos de interconexión.",
+                                "d": "Se han verificado los protocolos de comunicaciones.",
+                                "e": "Se ha localizado la causa de la disfunción.",
+                                "f": "Se ha restituido el funcionamiento sustituyendo equipos o elementos.",
+                                "g": "Se han solucionado las disfunciones software.",
+                                "h": "Se ha elaborado un informe de incidencias."}},
+"RA06": {
+                    "Resultado": " Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, las medidas y equipos para prevenirlos.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles, máquinas y medios de transporte.",
+                                "b": "Se han operado las máquinas respetando las normas de seguridad.",
+                                "c": "Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, máquinas de corte y conformado, entre otras.",
+                                "d": "Se han descrito los elementos de seguridad (protecciones, alarmas, pasos de emergencia, entre otros) de las máquinas y los equipos de protección individual (calzado, protección ocular, indumentaria, entre otros) que se deben emplear en las operaciones de montaje y mantenimiento.",
+                                "e": "Se ha relacionado la manipulación de materiales, herramientas y máquinas con las medidas de seguridad y protección personal requeridos.",
+                                "f": "Se han identificado las posibles fuentes de contaminación del entorno ambiental.",
+                                "g": "Se han clasificado los residuos generados para su retirada selectiva.",
+                                "h": "Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos."
+                                }
+        }
+
+
+            }
         }
 
     }
