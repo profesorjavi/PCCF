@@ -17,12 +17,12 @@ Los **Resultados de Aprendizaje** relativos al módulo de Entornos de desarrollo
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 |  Reconoce los elementos y herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en las que actúan hasta llegar a su puesta en funcionamiento. |
-| RA02 |  Evalúa entornos integrados de desarrollo, analizando, sus características para editar código fuente y generar ejecutables. |
-| RA03 |  Verifica el funcionamiento de programas, diseñando y realizando pruebas. |
-| RA04 |  Optimiza código empleando las herramientas disponibles en el entorno de desarrollo. |
-| RA05 |  Genera diagramas de clases valorando su importancia en el desarrollo de aplicaciones y empleando las herramientas disponibles en el entorno. |
-| RA06 |  Genera diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y empleando las herramientas disponibles en el entorno. |
+| RA01 | Reconoce los elementos y herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en las que actúan hasta llegar a su puesta en funcionamiento. |
+| RA02 | Evalúa entornos integrados de desarrollo analizando sus características para editar código fuente y generar ejecutables. |
+| RA03 | Verifica el funcionamiento de programas diseñando y realizando pruebas. |
+| RA04 | Optimiza código empleando las herramientas disponibles en el entorno de desarrollo. |
+| RA05 | Genera diagramas de clases valorando su importancia en el desarrollo de aplicaciones y empleando herramientas específicas. |
+| RA06 | Genera diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y empleando herramientas específicas. |
 |<img width=200/>|<img width=500/>|
 
 

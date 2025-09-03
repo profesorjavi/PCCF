@@ -26,13 +26,13 @@ Los **Resultados de Aprendizaje** relativos al módulo de Bases de Datos son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 | Reconoce los elementos de las bases de datos analizando sus funciones y valorando la utilidad de los sistemas gestores. |
-| RA02 | Crea bases de datos definiendo su estructura y las características de sus elementos según el modelo relacional. |
-| RA03 | Consulta la información almacenada en una base de datos empleando asistentes, herramientas gráficas y el lenguaje de manipulación de datos. |
-| RA04 | Modifica la información almacenada en la base de datos utilizando asistentes, herramientas gráficas y el lenguaje de manipulación de datos. |
-| RA05 | Desarrolla procedimientos almacenados, evaluando y utilizando las sentencias del lenguaje incorporado en el sistema gestor de bases de datos. |
-| RA06 | Diseña modelos relacionales normalizados interpretando diagramas entidad/relación. |
-| RA07 | Gestiona la información almacenada en bases de datos objeto-relacionales, evaluando y utilizando las posibilidades que proporciona el sistema gestor |
+| RA01 |  Reconoce los elementos de las bases de datos analizando sus funciones y valorando la utilidad de los sistemas gestores. |
+| RA02 |  Crea bases de datos definiendo su estructura y las características de sus elementos según el modelo relacional. |
+| RA03 |  Consulta la información almacenada en una base de datos empleando asistentes, herramientas gráficas y el lenguaje de manipulación de datos. |
+| RA04 |  Modifica la información almacenada en la base de datos utilizando asistentes, herramientas gráficas y el lenguaje de manipulación de datos. |
+| RA05 |  Desarrolla procedimientos almacenados evaluando y utilizando las sentencias del lenguaje incorporado en el sistema gestor de bases de datos. |
+| RA06 |  Diseña modelos relacionales normalizados interpretando diagramas entidad/relación. |
+| RA07 |  Gestiona la información almacenada en bases de datos no relacionales, evaluando y utilizando las posibilidades que proporciona el sistema gestor. |
 |<img width=200/>|<img width=500/>|
 
 
