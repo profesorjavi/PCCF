@@ -104,95 +104,84 @@
             "nombre":"Sistemas Informáticos",
             "creditos":"10",
             "ResultadosAprendizaje":{
-                "RA01":{
-                    "Resultado":"Evalúa sistemas informáticos, identificando sus componentes y características.",
-                    "CriteriosEvaluacion":{
-                    "a":"Se han reconocido los componentes físicos de un sistema informático y sus mecanismos de interconexión.",
-                    "b":"Se han clasificado los tipos de memorias, señalando sus características e identifcando sus prestaciones y la función que desarrollan en el conjunto del sistema.",
-                    "c":"Se ha verificado el proceso de puesta en marcha de un equipo.",
-                    "d":"Se han clasificado, instalado y configurado diferentes tipos de dispositivos periféricos.",
-                    "e":"Se han identificado los tipos de redes y sistemas de comunicación.",
-                    "f":"Se han identificado los componentes de una red informática.",
-                    "g":"Se han interpretado mapas físicos y lógicos de una red informática.",
-                    "h":"Se han reconocido las normas de seguridad y prevención de riesgos laborales en el uso de los sistemas informáticos."
-                    }
-                },
-                "RA02": {
+                    "RA01": {
+                    "Resultado": "Evalúa sistemas informáticos, identificando sus componentes y características.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se han reconocido los componentes físicos de un sistema informático y sus mecanismos de interconexión.",
+                                "b": "Se han clasificado los tipos de memorias, señalando sus características e identifcando sus prestaciones y la función que desarrollan en el conjunto del sistema.",
+                                "c": "Se ha verificado el proceso de puesta en marcha de un equipo.",
+                                "d": "Se han clasificado, instalado y configurado diferentes tipos de dispositivos periféricos.",
+                                "e": "Se han identificado los tipos de redes y sistemas de comunicación.",
+                                "f": "Se han identificado los componentes de una red informática.",
+                                "g": "Se han interpretado mapas físicos y lógicos de una red informática.",
+                                "h": "Se han reconocido las normas de seguridad y prevención de riesgos laborales en el uso de los sistemas informáticos."}},
+"RA02": {
                     "Resultado": "Instala sistemas operativos planificando el proceso e interpretando documentación técnica.",
-                    "CriteriosEvaluacion": {
-                        "a": "Se han identificado los elementos funcionales de un sistema informático.",
-                        "b": "Se han analizado las características, funciones y arquitectura de un sistema operativo.",
-                        "c": "Se han comparado sistemas operativos en base a sus requisitos, características, campos de aplicación y licencias de uso.",
-                        "d": "Se ha planificado el proceso de la instalación de sistemas operativos.",
-                        "e": "Se han instalado y actualizado sistemas operativos libres y propietarios.",
-                        "f": "Se han aplicado técnicas de actualización y recuperación del sistema.",
-                        "g": "Se han utilizado tecnologías de virtualización para instalar y probar sistemas operativos.",
-                        "h": "Se han instalado, desinstalado y actualizado aplicaciones.",
-                        "i": "Se han documentado los procesos realizados."
-                        }
-                },
-                "RA03": {
+                        "CriteriosEvaluacion": {
+                                "a": "Se han identificado los elementos funcionales de un sistema informático.",
+                                "b": "Se han analizado las características, funciones y arquitectura de un sistema operativo.",
+                                "c": "Se han comparado sistemas operativos en base a sus requisitos, características, campos de aplicación y licencias de uso.",
+                                "d": "Se ha planificado el proceso de la instalación de sistemas operativos.",
+                                "e": "Se han instalado y actualizado sistemas operativos libres y propietarios.",
+                                "f": "Se han aplicado técnicas de actualización y recuperación del sistema.",
+                                "g": "Se han utilizado tecnologías de virtualización para instalar y probar sistemas operativos.",
+                                "h": "Se han instalado, desinstalado y actualizado aplicaciones.",
+                                "i": "Se han documentado los procesos realizados."}},
+"RA03": {
                     "Resultado": "Gestiona la información del sistema identificando las estructuras de almacenamiento y aplicando medidas para asegurar la integridad de los datos.",
-                    "CriteriosEvaluacion": {
-                            "a": "Se han comparado sistemas de archivos.",
-                            "b": "Se ha identificado la estructura y función de los directorios del sistema operativo.",
-                            "c": "Se han utilizado herramientas en entorno gráfico y comandos para localizar información en el sistema de archivos.",
-                            "d": "Se han creado diferentes tipos de particiones y unidades lógicas.",
-                            "e": "Se han realizado y restaurado copias de seguridad.",
-                            "f": "Se han planificado y automatizado tareas.",
-                            "g": "Se han instalado y evaluado utilidades relacionadas con la gestión de información."
-                        }
-                    },
-                    "RA04": {
-                        "Resultado": "Gestiona sistemas operativos utilizando comandos y herramientas gráficas y evaluando las necesidades del sistema.",
                         "CriteriosEvaluacion": {
-                            "a": "Se han configurado cuentas de usuario locales y grupos.",
-                            "b": "Se ha asegurado el acceso al sistema mediante el uso de directivas de cuenta y directivas de contraseñas.",
-                            "c": "Se han identificado, arrancado y detenido servicios y procesos.",
-                            "d": "Se ha protegido el acceso a la información mediante el uso de permisos locales y listas de control de acceso.",
-                            "e": "Se han utilizado comandos para realizar las tareas básicas de configuración y administración del sistema.",
-                            "f": "Se ha monitorizado el sistema.",
-                            "g": "Se han instalado y evaluado utilidades para el mantenimiento y optimización del sistema.",
-                            "h": "Se han evaluado las necesidades del sistema informático en relación con el desarrollo de aplicaciones."
-                        }
-                    },
-                    "RA05": {
-                        "Resultado": "Interconecta sistemas en red configurando dispositivos y protocolos.",
+                                "a": "Se han comparado sistemas de archivos.",
+                                "b": "Se ha identificado la estructura y función de los directorios del sistema operativo.",
+                                "c": "Se han utilizado herramientas en entorno gráfico y comandos para localizar información en el sistema de archivos.",
+                                "d": "Se han creado diferentes tipos de particiones y unidades lógicas.",
+                                "e": "Se han realizado y restaurado copias de seguridad.",
+                                "f": "Se han planificado y automatizado tareas.",
+                                "g": "Se han instalado y evaluado utilidades relacionadas con la gestión de información."}},
+"RA04": {
+                    "Resultado": "Gestiona sistemas operativos utilizando comandos y herramientas gráficas y evaluando las necesidades del sistema.",
                         "CriteriosEvaluacion": {
-                            "a": "Se ha configurado el protocolo TCP/IP.",
-                            "b": "Se han configurado redes de área local cableadas.",
-                            "c": "Se han configurado redes de área local inalámbricas.",
-                            "d": "Se han utilizado dispositivos de interconexión de redes.",
-                            "e": "Se ha configurado el acceso a redes de área extensa.",
-                            "f": "Se han gestionado puertos de comunicaciones.",
-                            "g": "Se ha verificado el funcionamiento de la red mediante el uso de comandos y herramientas básicas.",
-                            "h": "Se han aplicado protocolos seguros de comunicaciones."
-                        }
-                    },
-                    "RA06": {
-                        "Resultado": "Opera sistemas en red gestionando sus recursos e identificando las restricciones de seguridad existentes.",
+                                "a": "Se han configurado cuentas de usuario locales y grupos.",
+                                "b": "Se ha asegurado el acceso al sistema mediante el uso de directivas de cuenta y directivas de contraseñas.",
+                                "c": "Se han identificado, arrancado y detenido servicios y procesos.",
+                                "d": "Se ha protegido el acceso a la información mediante el uso de permisos locales y listas de control de acceso.",
+                                "e": "Se han utilizado comandos para realizar las tareas básicas de configuración y administración del sistema.",
+                                "f": "Se ha monitorizado el sistema.",
+                                "g": "Se han instalado y evaluado utilidades para el mantenimiento y optimización del sistema.",
+                                "h": "Se han evaluado las necesidades del sistema informático en relación con el desarrollo de aplicaciones."}},
+"RA05": {
+                    "Resultado": "Interconecta sistemas en red configurando dispositivos y protocolos.",
                         "CriteriosEvaluacion": {
-                            "a": "Se ha configurado el acceso a recursos locales y recursos de red.",
-                            "b": "Se han identificado y configurado los derechos de usuario y directivas de seguridad.",
-                            "c": "Se han explotado servidores de ficheros, servidores de impresión y servidores de aplicaciones.",
-                            "d": "Se ha accedido a los servidores utilizando técnicas de conexión remota.",
-                            "e": "Se ha evaluado la necesidad de proteger los recursos y el sistema.",
-                            "f": "Se han instalado y evaluado utilidades de seguridad básica.",
-                            "g": "Se han configurado y explotado dominios."
-                        }
-                    },
-                    "RA07": {
-                        "Resultado": "Elabora documentación valorando y utilizando aplicaciones informáticas de propósito general.",
-                "CriteriosEvaluacion":{
-                            "a":"Se ha clasificado software en función de su licencia y propósito.",
-                            "b":"Se han analizado las necesidades específicas de software asociadas al uso de sistemas informáticos en diferentes entornos productivos.",
-                            "c":"Se han realizado tareas de documentación mediante el uso de herramientas ofimáticas y de trabajo colaborativo.",
-                            "d":"Se han utilizado sistemas de correo y mensajería electrónica.",
-                            "e":"Se han utilizado los servicios de transferencia de ficheros.",
-                            "f":"Se han utilizado métodos de búsqueda de documentación técnica mediante el uso de servicios de Internet.",
-                            "g":"Se han utilizado herramientas de propósito general."
-                }
-            }
+                                "a": "Se ha configurado el protocolo TCP/IP.",
+                                "b": "Se han configurado redes de área local cableadas.",
+                                "c": "Se han configurado redes de área local inalámbricas.",
+                                "d": "Se han utilizado dispositivos de interconexión de redes.",
+                                "e": "Se ha configurado el acceso a redes de área extensa.",
+                                "f": "Se han gestionado puertos de comunicaciones.",
+                                "g": "Se ha verificado el funcionamiento de la red mediante el uso de comandos y herramientas básicas.",
+                                "h": "Se han aplicado protocolos seguros de comunicaciones."}},
+"RA06": {
+                    "Resultado": "Opera sistemas en red gestionando sus recursos e identificando las restricciones de seguridad existentes.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se ha configurado el acceso a recursos locales y recursos de red.",
+                                "b": "Se han identificado y configurado los derechos de usuario y directivas de seguridad.",
+                                "c": "Se han explotado servidores de ficheros, servidores de impresión y servidores de aplicaciones.",
+                                "d": "Se ha accedido a los servidores utilizando técnicas de conexión remota.",
+                                "e": "Se ha evaluado la necesidad de proteger los recursos y el sistema.",
+                                "f": "Se han instalado y evaluado utilidades de seguridad básica.",
+                                "g": "Se han configurado y explotado dominios."}},
+"RA07": {
+                    "Resultado": "Elabora documentación valorando y utilizando aplicaciones informáticas de propósito general.",
+                        "CriteriosEvaluacion": {
+                                "a": "Se ha clasificado software en función de su licencia y propósito.",
+                                "b": "Se han analizado las necesidades específicas de software asociadas al uso de sistemas informáticos en diferentes entornos productivos.",
+                                "c": "Se han realizado tareas de documentación mediante el uso de herramientas ofimáticas y de trabajo colaborativo.",
+                                "d": "Se han utilizado sistemas de correo y mensajería electrónica.",
+                                "e": "Se han utilizado los servicios de transferencia de ficheros.",
+                                "f": "Se han utilizado métodos de búsqueda de documentación técnica mediante el uso de servicios de Internet.",
+                                "g": "Se han utilizado herramientas de propósito general."
+                                }
+        }
+
             },
             "horas":"166",
             "UnidadesCompetenciaAcreditadas":
