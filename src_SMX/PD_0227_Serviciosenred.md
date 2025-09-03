@@ -71,14 +71,12 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
 
-Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |
+| Número | Título                    | Trimestre    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
+| 01     | UP01: La amenza           | 1º| 10/10/2025|
+| 02     | UP02: Red esperanza       | 11/10/2025| 21/10/2025|
 | 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
 | 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
 
