@@ -165,7 +165,7 @@
 
 
 		},
-		"horas":"50",
+		"horas":"68",
 		"UnidadesCompetenciaAcreditadas":{}
     },
     "1664":{
@@ -292,8 +292,8 @@
                 "UnidadesCompetenciaAcreditadas": {},
                 "ObjetivosGenerales ": ["e","j","q"],
                 "CompetenciasTitulo" : ["a","e","f","i","j","v","y","z" ]
-        },
-        "1710":{
+    },
+    "1710":{
                 "nombre": "Itinerario personal para la empleabilidad II",
                 "creditos": "5",
                 "ResultadosAprendizaje": {
@@ -354,7 +354,7 @@
                 "UnidadesCompetenciaAcreditadas": {},
                 "ObjetivosGenerales ": ["e","j","q"],
                 "CompetenciasTitulo" : ["a","e","f","i","j","v","y","z" ]
-        },
+    },
     "1708":{
                 "nombre": "Sostenibilidad aplicada al sistema productivo",
                 "creditos": "5",

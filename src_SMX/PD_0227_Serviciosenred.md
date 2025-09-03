@@ -35,6 +35,8 @@ Los **Resultados de Aprendizaje** relativos al módulo de Servicios en red son:
 | RA08 |  Establece el acceso desde redes locales a redes públicas identificando posibles escenarios y aplicando software específico. |
 |<img width=200/>|<img width=500/>|
 
+
+
 ## Objetivos Generales 
 
 La formación del módulo contribuye a alcanzar los *Objetivos Generales del Ciclo* siguientes:
@@ -49,6 +51,9 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 | l | Detectar y analizar cambios tecnológicos para elegir nuevas alternativas y mantenerse actualizado dentro del sector. |
 | m | Reconocer y valorar incidencias, determinando sus causas y describiendo las acciones correctoras para resolverlas. |
 |<img width=100/>|<img width=500/>|
+
+
+
 
 
 ## Competencias del Título 
@@ -69,14 +74,17 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 |<img width=100/>|<img width=500/>|
 
 
+
 ## Secuenciación de las Unidades de Programación. 
 
+A RELLENAR POR DOCENTE
 
+Se propone esta tabla
 
-| Número | Título                    | Trimestre    | Fin       |
+| Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: La amenza           | 1º| 10/10/2025|
-| 02     | UP02: Red esperanza       | 11/10/2025| 21/10/2025|
+| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
+| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
 | 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
 | 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
 

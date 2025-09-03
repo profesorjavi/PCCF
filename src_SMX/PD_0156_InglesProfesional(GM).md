@@ -4,7 +4,7 @@
 
 ## Datos identificativos y contextualización del módulo. 
 
-Es un módulo de 50 horas que se imparte en el Ciclo de Grado Medio de 
+Es un módulo de 68 horas que se imparte en el Ciclo de Grado Medio de 
 Técnico en Sistemas Microinformáticos y Redes.
 
 
