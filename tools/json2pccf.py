@@ -52,23 +52,23 @@ for codigo in data_box.ModulosProfesionales:
         print(" Se utilizara el ya subido de "+modulo.nombre.replace(" ",""))
         print("")
 
-    #else:
-    print(" Generando Programacion Didactica para "+modulo.nombre.replace(" ",""))
-    templateLoader = jinja2.FileSystemLoader(searchpath="./templates/")
-    templateEnv = jinja2.Environment(loader=templateLoader)
-    TEMPLATE_FILE = "PCCF_PD_Plantilla_MODULO_"+sys.argv[1]+".md"
-    template = templateEnv.get_template(TEMPLATE_FILE)
-    outputText = template.render(modulo=modulo)
-    fmod = "./temp/PD_"+str(codigo)+"_"+modulo.nombre.replace(" ","")+".md"
+    else:
+        print(" Generando Programacion Didactica para "+modulo.nombre.replace(" ",""))
+        templateLoader = jinja2.FileSystemLoader(searchpath="./templates/")
+        templateEnv = jinja2.Environment(loader=templateLoader)
+        TEMPLATE_FILE = "PCCF_PD_Plantilla_MODULO_"+sys.argv[1]+".md"
+        template = templateEnv.get_template(TEMPLATE_FILE)
+        outputText = template.render(modulo=modulo)
+        fmod = "./temp/PD_"+str(codigo)+"_"+modulo.nombre.replace(" ","")+".md"
 
-    # Quitamos las Tildes graficas
-    # Fixes : #2
+        # Quitamos las Tildes graficas
+        # Fixes : #2
 
-    fmod = fmod.replace('á','a').replace('é','e').replace('í','i').replace('ó','o').replace('ú','u')
+        fmod = fmod.replace('á','a').replace('é','e').replace('í','i').replace('ó','o').replace('ú','u')
 
-    fmodulo = open(fmod,"w")
-    fmodulo.write(outputText)
-    fmodulo.close()
+        fmodulo = open(fmod,"w")
+        fmodulo.write(outputText)
+        fmodulo.close()
 
     print(" - Includes from PCCF para "+modulo.nombre.replace(" ",""))
 
