@@ -7,7 +7,6 @@ Proyectos Curriculares de la Familia de Informática, así como la posibilidad d
 las diferentes hojas de cálculo de las Programaciones Didácticas de los Módulos
 a partir de los contenidos del BOE que se leen desde diferentes JSON.
 
-
 ## Ciclos Formativos
 
 | Siglas | Nombre Completo | Nivel |
@@ -156,6 +155,5 @@ sudo apt install make pandoc \
 
 sudo apt install python3-jinja2 \
 		 python3-box
-		 
-```
 
+```
