@@ -1,40 +1,29 @@
 \newpage
 
-# Programación didáctica: Módulo Programación
+# Programación didáctica: Módulo Lenguajes de marcas y sistemas de gestión de información
 
 ## Datos identificativos y contextualización del módulo. 
 
-Es un módulo de 266 horas que se imparte en el Ciclo de Grado Superior de 
+Es un módulo de 100 horas que se imparte en el Ciclo de Grado Superior de 
 Técnico en Desarrollo de Aplicaciones Web.
 
-Tiene una correspondéncia de Créditos de 14.
-
-
-
-## Relación entre los estándares de competencia y los módulos del ciclo formativo
-
-| Código| Descripción del estándar       |
-|-------|--------------------------------|
-| UC0227_3 | Desarrollar componentes software en lenguajes de programación orientados a objetos. |
-|<img width=200/>|<img width=500/>|
+Tiene una correspondéncia de Créditos de 5.
 
 
 
 ## Resultados de Aprendizaje
 
-Los **Resultados de Aprendizaje** relativos al módulo de Programación son:
+Los **Resultados de Aprendizaje** relativos al módulo de Lenguajes de marcas y sistemas de gestión de información son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 | Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado. |
-| RA02 | Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos. |
-| RA03 | Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje. |
-| RA04 | Desarrolla programas organizados en clases analizando y aplicando los principios de la programación orientada a objetos. |
-| RA05 | Realiza operaciones de entrada y salida de información, utilizando procedimientos específicos del lenguaje y librerías de clases. |
-| RA06 | Escribe programas que manipulen información seleccionando y utilizando tipos avanzados de datos. |
-| RA07 | Desarrolla programas aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación. |
-| RA08 | Utiliza bases de datos orientadas a objetos, analizando sus características y aplicando técnicas para mantener la persistencia de la información. |
-| RA09 | Gestiona información almacenada en bases de datos manteniendo la integridad y consistencia de los datos. |
+| RA01 | Reconoce las características de lenguajes de marcas analizando e interpretando fragmentos de código. |
+| RA02 | Utiliza lenguajes de marcas para la transmisión y presentación de información a través de la web analizando la estructura de los documentos e identificando sus elementos. |
+| RA03 | Accede y manipula documentos web utilizando lenguajes de script de cliente. |
+| RA04 | Establece mecanismos de validación de documentos para el intercambio de información utilizando métodos para definir su sintaxis y estructura. |
+| RA05 | Realiza conversiones sobre documentos para el intercambio de información utilizando técnicas, lenguajes y herramientas de procesamiento. |
+| RA06 | Gestiona la información en formatos de intercambio de datos analizando y utilizando tecnologías de almacenamiento y lenguajes de consulta. |
+| RA07 | Opera sistemas empresariales de gestión de información realizando tareas de importación, integración, aseguramiento y extracción de la información. |
 |<img width=200/>|<img width=500/>|
 
 
@@ -45,10 +34,9 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 
 | Obj| Objetivo General del Ciclo |
 |----|----------------------------|
-| e | Interpretar el diseño lógico, verificando los parámetros establecidos para gestionar bases de datos. |
-| j | Emplear herramientas y lenguajes específicos, siguiendo las especificaciones, para desarrollar componentes multimedia. |
-| q | Programar y realizar actividades para gestionar el mantenimiento de los recursos informáticos. |
-| w | Evaluar situaciones de prevención de riesgos laborales y de protección ambiental, proponiendo y aplicando medidas de prevención personales y colectivas, de acuerdo a la normativa aplicable en los procesos del trabajo, para garantizar entornos seguros. |
+| h | Generar componentes de acceso a datos, cumpliendo las especificaciones, para integrar contenidos en la lógica de una aplicación web. |
+| p | Establecer procedimientos, verificando su funcionalidad, para desplegar y distribuir aplicaciones. |
+| r | Analizar y utilizar los recursos y oportunidades de aprendizaje relacionadas con la evolución científica, tecnológica y organizativa del sector y las tecnologías de la información y la comunicación, para mantener el espíritu de actualización y adaptarse a nuevas situaciones laborales y personales. |
 |<img width=100/>|<img width=500/>|
 
 
@@ -63,9 +51,9 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 | Obj| Competencia del Título |
 |----|----------------------------|
 | e | Desarrollar aplicaciones web con acceso a bases de datos utilizando lenguajes, objetos de acceso y herramientas de mapeo adecuados a las especificaciones. |
-| j | Desarrollar e integrar componentes software en el entorno del servidor web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación. |
-| t |  Generar entornos seguros en el desarrollo de su trabajo y el de su equipo, supervisando y aplicando los procedimientos de prevención de riesgos laborales y ambientales de acuerdo con lo establecido por la normativa y los objetivos de la empresa. |
-| w |  Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural. |
+| f | Integrar contenidos en la lógica de una aplicación web, desarrollando componentes de acceso a datos adecuados a las especificaciones. |
+| h | Desarrollar componentes multimedia para su integración en aplicaciones web, empleando herramientas específicas y siguiendo las especificaciones establecidas. |
+| p | Adaptarse a las nuevas situaciones laborales, manteniendo actualizados los conocimientos científicos, técnicos y tecnológicos relativos a su entorno profesional, gestionando su formación y los recursos existentes en el aprendizaje a lo largo de la vida y utilizando las tecnologías de la información y la comunicación. |
 |<img width=100/>|<img width=500/>|
 
 
@@ -244,7 +232,7 @@ A RELLENAR POR DOCENTE
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
-## Esquema General de Programación
+## Esquema General de Lenguajes de marcas y sistemas de gestión de información
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 
