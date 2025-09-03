@@ -17,13 +17,13 @@ Los **Resultados de Aprendizaje** relativos al módulo de Lenguajes de marcas y 
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 |  Reconoce las características de lenguajes de marcas, analizando e interpretando fragmentos de código. |
-| RA02 |  Utiliza lenguajes de marcas para la transmisión de información a través de la web, analizando la estructura de los documentos e identificando sus elementos. |
-| RA03 |  Genera canales de contenidos analizando y utilizando tecnologías de sindicación. |
-| RA04 |  Establece mecanismos de validación para documentos XML utilizando métodos para definir su sintaxis y estructura. |
-| RA05 |  Realiza conversiones sobre documentos XML utilizando técnicas y herramientas de procesamiento. |
-| RA06 |  Gestiona información en formato XML analizando y utilizando tecnologías de almacenamiento y lenguajes de consulta. |
-| RA07 |  Opera sistemas empresariales de gestión de información realizando tareas de importación, integración, aseguramiento y extracción de la información. |
+| RA01 | Reconoce las características de lenguajes de marcas analizando e interpretando fragmentos de código. |
+| RA02 | Utiliza lenguajes de marcas para la transmisión y presentación de información a través de la web analizando la estructura de los documentos e identificando sus elementos. |
+| RA03 | Accede y manipula documentos web utilizando lenguajes de script de cliente. |
+| RA04 | Establece mecanismos de validación de documentos para el intercambio de información utilizando métodos para definir su sintaxis y estructura. |
+| RA05 | Realiza conversiones sobre documentos para el intercambio de información utilizando técnicas, lenguajes y herramientas de procesamiento. |
+| RA06 | Gestiona la información en formatos de intercambio de datos analizando y utilizando tecnologías de almacenamiento y lenguajes de consulta. |
+| RA07 | Opera sistemas empresariales de gestión de información realizando tareas de importación, integración, aseguramiento y extracción de la información. |
 |<img width=200/>|<img width=500/>|
 
 

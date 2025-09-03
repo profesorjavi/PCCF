@@ -26,15 +26,15 @@ Los **Resultados de Aprendizaje** relativos al módulo de Programación son:
 
 |Código| Resultado de Aprendizaje |
 |------|--------------------------|
-| RA01 |  Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado. |
-| RA02 |  Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos. |
-| RA03 |  Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje. |
-| RA04 |  Desarrolla programas organizados en clases analizando y aplicando los principios de la programación orientada a objetos. |
-| RA05 |  Realiza operaciones de entrada y salida de información, utilizando procedimientos específicos del lenguaje y librerías de clases. |
-| RA06 |  Escribe programas que manipulen información, seleccionando y utilizando tipos avanzados de datos. |
-| RA07 |  Desarrolla programas, aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación. |
-| RA08 |  Utiliza bases de datos orientadas a objetos, analizando sus características y aplicando técnicas para mantener la persistencia de la información. |
-| RA09 |  Gestiona información almacenada en bases de datos relacionales manteniendo la integridad y la consistencia de los datos. |
+| RA01 | Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado. |
+| RA02 | Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos. |
+| RA03 | Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje. |
+| RA04 | Desarrolla programas organizados en clases analizando y aplicando los principios de la programación orientada a objetos. |
+| RA05 | Realiza operaciones de entrada y salida de información, utilizando procedimientos específicos del lenguaje y librerías de clases. |
+| RA06 | Escribe programas que manipulen información seleccionando y utilizando tipos avanzados de datos. |
+| RA07 | Desarrolla programas aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación. |
+| RA08 | Utiliza bases de datos orientadas a objetos, analizando sus características y aplicando técnicas para mantener la persistencia de la información. |
+| RA09 | Gestiona información almacenada en bases de datos manteniendo la integridad y consistencia de los datos. |
 |<img width=200/>|<img width=500/>|
 
 
