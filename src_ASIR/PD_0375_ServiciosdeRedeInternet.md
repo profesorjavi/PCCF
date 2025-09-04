@@ -166,8 +166,9 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-Nota final = 0,2*(RA1+RA2)+0,25*(RA3) + 0,05*(RA4+RA6+RA7)+0,1*(RA5+RA8)
-De cada RA se puntuará un 20% la parte práctica y un 80% a partir de una prueba objetiva
+Nota final = 0,2*(RA1+RA2)+0,25*(RA3)+0,05*(RA4+RA6+RA7)+0,1*(RA5+RA8)
+
+En cada unidad de programación se indicará como se calificaran cada RA que se realiza en la empresa. De manera general se puntuará un 20% la parte práctica y un 80% a partir de una prueba objetiva
 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
@@ -218,7 +219,8 @@ La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve
 
 * Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
   *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
-
+La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar 
+ 
  
 ### Recuperación: 
 
