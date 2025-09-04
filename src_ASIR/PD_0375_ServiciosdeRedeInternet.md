@@ -168,7 +168,8 @@ La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General
 
 Nota final = 0,2*(RA1+RA2)+0,25*(RA3)+0,05*(RA4+RA6+RA7)+0,1*(RA5+RA8)
 
-En cada unidad de programación se indicará como se calificaran cada RA que se realiza en la empresa. De manera general se puntuará un 20% la parte práctica y un 80% a partir de una prueba objetiva
+En cada unidad de programación se indicará como se calificaran los RAs que incluya. De manera general se puntuará un 20% la parte práctica y un 80% a partir de una prueba objetiva. 
+En la convocatoria ordinaria en el caso que alumno haya mantenido la evaluación continua se mantendrá este modo. En caso contrario, se realizará una prueba objetiva para calificar el 100% del RA.
 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
@@ -239,6 +240,7 @@ recuperación
 2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo 
    de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará
    al calendario propuesto por el centro.
+
 
 ### Convocatoria Extraordinaria
 
