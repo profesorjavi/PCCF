@@ -164,13 +164,13 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Calificaciones parciales**: cada docente incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
-La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
+La ponderación de cada Resultado de Aprendizaje (RA) se detalla en el Esquema General:
 
-Nota final = 0,2*(RA1+RA2)+0,25*(RA3)+0,05*(RA4+RA6+RA7)+0,1*(RA5+RA8)
+Nota final = 0,2 × (RA1 + RA2) + 0,25 × RA3 + 0,05 × (RA4 + RA6 + RA7) + 0,1 × (RA5 + RA8)
 
-En cada unidad de programación se indicará como se calificaran los RAs que incluya. De manera general se puntuará un 20% la parte práctica y un 80% a partir de una prueba objetiva. 
-En la convocatoria ordinaria en el caso que alumno haya mantenido la evaluación continua se mantendrá este modo. En caso contrario, se realizará una prueba objetiva para calificar el 100% del RA.
+En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
 
+En la convocatoria ordinaria, si el alumno ha mantiene el proceso de evaluación continua, se mantendrá este sistema de evaluación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
