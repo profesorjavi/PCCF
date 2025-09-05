@@ -31,16 +31,12 @@ Los **Resultados de Aprendizaje** relativos al módulo de Sostenibilidad aplicad
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
-
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Desafios Ecosociales            | 11/09/2025| 30/10/2025|
+| 02     | UP02: ODS y Empresas                  | 06/11/2025| 27/11/2025|
+| 03     | UP03: Planes de Sostenibilidad        | 04/12/2025| 05/03/2026|
+| 04     | UP04: Proyectos                       | 12/03/2026| 04/06/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -126,7 +122,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -169,8 +165,8 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+El Cálculo de la nota de un RA dualizado se hará en función de las horas que se dualizen, asignándole pesos de manera 
+adecuada.
 
 ### Recuperación: 
 
@@ -205,6 +201,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Sostenibilidad aplicada al sistema productivo
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
