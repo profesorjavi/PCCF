@@ -125,6 +125,8 @@ La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General
 
 De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
 
+En la convocatoria ordinaria, si el alumno ha mantiene el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
 Cada módulo se divide en **Unidades de Programación (UP) o Situaciones de Aprendizaje (SA)** que agrupan Resultados de Aprendizaje y sus criterios de evaluación. A cada RA se le asigna un **peso evaluativo** y una **carga horaria** proporcional. 
@@ -166,8 +168,15 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-El Cálculo de la nota de un RA dualizado se hará en función de las horas que se dualizen, asignándole pesos de manera 
-adecuada.
+La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve a cabo de forma compartida entre la empresa y el instituto se determinará en función de la proporción de horas realizadas en cada uno de los ámbitos. En ambos casos, la valoración se expresará en una escala de 1 a 10, ponderándose posteriormente según el número de horas desarrolladas en la empresa y en el instituto, respectivamente.
+
+* Si un RA se desarrolla en un 20 % en la empresa y en un 80 % en el instituto, la calificación final se obtendrá ponderando las notas asignadas en cada ámbito en esas proporciones.
+  *(Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 × 0,20) + (7 × 0,80) = 7,2).*
+
+* Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
+  *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
+  
+La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar.
 
 ### Convocatoria Ordinaria
 
