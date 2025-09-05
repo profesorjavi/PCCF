@@ -77,16 +77,15 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
-
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Software en los SO            | 11/09/2025| 02/10/2025|
+| 02     | UP02: Procesos y Redes              | 16/10/2025| 30/10/2025|
+| 03     | UP03: Usuarios y grupos             | 06/11/2025| 27/11/2025|
+| 04     | UP04: Directorios Activos           | 04/12/2025| 15/01/2026|
+| 05     | UP05: Integrando Servicios          | 22/01/2026| 05/03/2026|
+| 06     | UP06: Herramientas DevOPS           | 12/03/2026| 30/04/2026|
+| 07     | UP07: IaS                           | 07/05/2026| 04/06/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -172,7 +171,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -215,8 +214,8 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+El Cálculo de la nota de un RA dualizado se hará en función de las horas que se dualizen, asignándole pesos de manera 
+adecuada.
 
 ### Recuperación: 
 
@@ -225,7 +224,6 @@ recuperación
 
 - No superados en la **evaluación ordinaria de primero o segundo**: se podrán recuperar en la **convocatoria extraordinaria** .
 - **Alumnos de segundo curso con módulos no superados de primero**: Se diseñará para que el alumnado lo pueda realizar simultáneamente con los módulos de segundo **sin garantizarse su asistencia a clase**. Dispondrá de **convocatoria ordinaria y extraordinaria**. 
-
 
 
 ### Convocatoria Ordinaria
@@ -243,7 +241,8 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+- Visita a un CPD.
+- Asistencia  Jornadas y Talleres.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -251,6 +250,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Administración de Sistemas Operativos
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
