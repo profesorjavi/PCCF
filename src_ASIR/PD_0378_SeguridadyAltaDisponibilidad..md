@@ -223,7 +223,7 @@ La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve
 
 * Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
   *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
-La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar 
+La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar.
  
 ### Recuperación: 
 
