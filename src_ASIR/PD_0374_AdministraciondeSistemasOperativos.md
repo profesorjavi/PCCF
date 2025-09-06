@@ -9,8 +9,6 @@ Técnico en Administración de Sistemas Informáticos y Redes.
 
 Tiene una correspondéncia de Créditos de 8.
 
-
-
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
 |Código| Descripción del estándar |
@@ -18,8 +16,6 @@ Tiene una correspondéncia de Créditos de 8.
 | UC0490_3 | Gestionar servicios en el sistema informático. |
 | UC0485_3 | Instalar, configurar y administrar el software de base y de aplicación del sistema. |
 |<img width=200/>|<img width=500/>|
-
-
 
 ## Resultados de Aprendizaje
 

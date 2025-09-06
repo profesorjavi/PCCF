@@ -7,8 +7,6 @@
 Es un módulo de 133 horas que se imparte en el Ciclo de Grado Medio de 
 Técnico en Sistemas Microinformáticos y Redes.
 
-
-
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
 | Unidad de Competencia | Descripción |
@@ -16,8 +14,6 @@ Técnico en Sistemas Microinformáticos y Redes.
 | UC0219_2 | Instalar y configurar el software base en sistemas microinformáticos. |
 | UC0958_2 | Ejecutar procedimientos de administración y mantenimiento en el software base y de aplicación de cliente. |
 |<img width=200/>|<img width=500/>|
-
-
 
 ## Resultados de Aprendizaje
 
@@ -77,16 +73,16 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
+| Número | Título                             | Inicio     | Fin        |
+|--------|------------------------------------|------------|------------|
+| 01     | Conceptos Básicos y Virtualización | 08/09/2025 | 02/10/2025 |
+| 02     | Bash y Python                      | 16/10/2025 | 30/10/2025 |
+| 03     | Software y Actualizaciones         | 06/11/2025 | 27/11/2025 |
+| 04     | Arranque, Procesos y Red           | 04/12/2025 | 15/01/2025 |
+| 05     | Usuarios, Grupos y Permisos        | 22/01/2026 | 05/03/2026 |
+| 06     | Sistemas de Ficheros               | 12/03/2026 | 30/04/2026 |
+| 07     | Proyecto Integrador                | 07/05/2026 | 04/06/2026 |
 
-Se propone esta tabla
-
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -236,11 +232,8 @@ recuperación
 
 ### Convocatoria Ordinaria
 
-1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs 
-   durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
-2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo 
-   de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará
-   al calendario propuesto por el centro.
+1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
+2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará al calendario propuesto por el centro.
 
 ### Convocatoria Extraordinaria
 
