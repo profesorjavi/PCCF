@@ -119,7 +119,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Calificaciones parciales**: se incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
-La Evaluación de cada Resultado de Aprendizaje se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación para las pruebas objetivas ya que siempre estarán basadas en las actividades propuestas. La falta de entrega de estas actividades prácticas supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas.
+La **Evaluación de cada Resultado de Aprendizaje** se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación para las pruebas objetivas ya que siempre estarán basadas en las actividades propuestas. La falta de entrega de estas actividades prácticas supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas.
 
 En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
 
