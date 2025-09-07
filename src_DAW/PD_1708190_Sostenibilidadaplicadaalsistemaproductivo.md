@@ -123,6 +123,8 @@ La Evaluación de cada Resultado de Aprendizaje se obtendrá a partir de pruebas
 
 En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
 
+La Ponderación de cada **RA** se indica en el Esquema General.
+
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
 Cada módulo se divide en **Unidades de Programación (UP) o Situaciones de Aprendizaje (SA)** que agrupan Resultados de Aprendizaje y sus criterios de evaluación. A cada RA se le asigna un **peso evaluativo** y una **carga horaria** proporcional. 
