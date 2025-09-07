@@ -170,7 +170,7 @@ Nota final = 0,2 × (RA1 + RA2) + 0,25 × RA3 + 0,05 × (RA4 + RA6 + RA7) + 0,1 
 
 En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
 
-En la convocatoria ordinaria, si el alumno ha mantiene el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
