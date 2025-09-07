@@ -125,6 +125,8 @@ En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluació
 
 La Ponderación de cada **RA** se indica en el Esquema General.
 
+Prueba de pull
+
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
 Cada módulo se divide en **Unidades de Programación (UP) o Situaciones de Aprendizaje (SA)** que agrupan Resultados de Aprendizaje y sus criterios de evaluación. A cada RA se le asigna un **peso evaluativo** y una **carga horaria** proporcional. 
