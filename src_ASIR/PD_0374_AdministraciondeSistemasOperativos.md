@@ -15,7 +15,6 @@ Tiene una correspondéncia de Créditos de 8.
 |-----------------------|-------------|
 | UC0490_3 | Gestionar servicios en el sistema informático. |
 | UC0485_3 | Instalar, configurar y administrar el software de base y de aplicación del sistema. |
-|<img width=200/>|<img width=500/>|
 
 ## Resultados de Aprendizaje
 
@@ -30,8 +29,6 @@ Los **Resultados de Aprendizaje** relativos al módulo de Administración de Sis
 | RA05 |  Administra servidores de impresión describiendo sus funciones e integrándolos en una red. |
 | RA06 |  Integra sistemas operativos libres y propietarios, justificando y garantizando su interoperabilidad. |
 | RA07 |  Utiliza lenguajes de guiones en sistemas operativos, describiendo su aplicación y administrando servicios del sistema operativo. |
-|<img width=200/>|<img width=500/>|
-
 
 
 ## Objetivos Generales 
@@ -46,9 +43,6 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 | ñ | Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones. |
 | o | Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento. |
 | q | Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas. |
-|<img width=100/>|<img width=500/>|
-
-
 
 
 
@@ -67,21 +61,18 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 | q | Resolver problemas y tomar decisiones individuales, siguiendo las normas y procedimientos establecidos, definidos dentro del ámbito de su competencia. |
 | r | Gestionar su carrera profesional, analizando las oportunidades de empleo, autoempleo y de aprendizaje. |
 | s | Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable. |
-|<img width=100/>|<img width=500/>|
-
 
 
 ## Secuenciación de las Unidades de Programación. 
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Software en los SO            | 11/09/2025| 02/10/2025|
-| 02     | UP02: Procesos y Redes              | 16/10/2025| 30/10/2025|
-| 03     | UP03: Usuarios y grupos             | 06/11/2025| 27/11/2025|
-| 04     | UP04: Directorios Activos           | 04/12/2025| 15/01/2026|
-| 05     | UP05: Integrando Servicios          | 22/01/2026| 05/03/2026|
-| 06     | UP06: Herramientas DevOPS           | 12/03/2026| 30/04/2026|
-| 07     | UP07: IaS                           | 07/05/2026| 04/06/2026|
+| 01     | UP01: Procesos y Redes              | 11/09/2025| 30/10/2025|
+| 02     | UP02: Usuarios y grupos             | 06/11/2025| 27/11/2025|
+| 03     | UP03: Directorios Activos           | 04/12/2025| 15/01/2026|
+| 04     | UP04: Integrando Servicios          | 22/01/2026| 05/03/2026|
+| 05     | UP05: Herramientas DevOPS           | 12/03/2026| 30/04/2026|
+| 06     | UP06: IaS                           | 07/05/2026| 04/06/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
