@@ -10,7 +10,6 @@ Técnico en Desarrollo de Aplicaciones Multiplataforma.
 Tiene una correspondéncia de Créditos de 5.
 
 
-
 ## Resultados de Aprendizaje
 
 Los **Resultados de Aprendizaje** relativos al módulo de Sostenibilidad aplicada al sistema productivo son:
@@ -23,7 +22,6 @@ Los **Resultados de Aprendizaje** relativos al módulo de Sostenibilidad aplicad
 | RA04 |  Propón productos y servicios responsables teniendo en cuenta los principios de la economía circular. |
 | RA05 |  Realiza actividades sostenibles minimizando el impacto de las mismas en el medio ambiente. |
 | RA06 |  Analiza un plan de sostenibilidad de una empresa del sector, identificando sus grupos de interés, los aspectos ASG materiales y justificando acciones para su gestión y medición. |
-|<img width=200/>|<img width=500/>|
 
 
 ## Secuenciación de las Unidades de Programación. 
@@ -68,8 +66,6 @@ Se parte del reconocimiento de la diversidad como un valor y una oportunidad par
 Las adaptaciones específicas, tanto metodológicas como organizativas, se concretarán en las **Situaciones de Aprendizaje**, donde se detallarán las actuaciones necesarias para atender a las necesidades individuales del alumnado, siempre en coordinación con los servicios de orientación y el equipo docente.
 
 ## Evaluación del aprendizaje. 
-
-
 
 ### Principios y objeto de la evaluación 
 
