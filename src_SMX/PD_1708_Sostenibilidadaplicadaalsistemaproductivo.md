@@ -21,10 +21,6 @@ Los **Resultados de Aprendizaje** relativos al módulo de Sostenibilidad aplicad
 | RA04 |  Propón productos y servicios responsables teniendo en cuenta los principios de la economía circular. |
 | RA05 |  Realiza actividades sostenibles minimizando el impacto de las mismas en el medio ambiente. |
 | RA06 |  Analiza un plan de sostenibilidad de una empresa del sector, identificando sus grupos de interés, los aspectos ASG materiales y justificando acciones para su gestión y medición. |
-|<img width=200/>|<img width=500/>|
-
-
-
 
 
 ## Secuenciación de las Unidades de Programación. 
@@ -70,8 +66,6 @@ Se parte del reconocimiento de la diversidad como un valor y una oportunidad par
 Las adaptaciones específicas, tanto metodológicas como organizativas, se concretarán en las **Situaciones de Aprendizaje**, donde se detallarán las actuaciones necesarias para atender a las necesidades individuales del alumnado, siempre en coordinación con los servicios de orientación y el equipo docente.
 
 ## Evaluación del aprendizaje. 
-
-
 
 ### Principios y objeto de la evaluación 
 
@@ -119,11 +113,12 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Calificaciones parciales**: cada docente incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
-La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
-
-De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
+La **Evaluación de cada Resultado de Aprendizaje** se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación para las pruebas objetivas ya que siempre estarán basadas en las actividades propuestas. La falta de entrega de estas actividades prácticas supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas.
 
 En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+
+La Ponderación de cada **RA** se indica en el Esquema General.
+
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
