@@ -13,7 +13,6 @@ Técnico en Sistemas Microinformáticos y Redes.
 |-----------------------|-------------|
 | UC0219_2 | Instalar y configurar el software base en sistemas microinformáticos. |
 | UC0958_2 | Ejecutar procedimientos de administración y mantenimiento en el software base y de aplicación de cliente. |
-|<img width=200/>|<img width=500/>|
 
 ## Resultados de Aprendizaje
 
@@ -26,8 +25,6 @@ Los **Resultados de Aprendizaje** relativos al módulo de Sistemas operativos mo
 | RA03 |  Realiza tareas básicas de configuración de sistemas operativos, interpretando requerimientos y describiendo los procedimientos seguidos. |
 | RA04 |  Realiza operaciones básicas de administración de sistemas operativos, interpretando requerimientos y optimizando el sistema para su uso. |
 | RA05 |  Crea máquinas virtuales identificando su campo de aplicación e instalando software específico. |
-|<img width=200/>|<img width=500/>|
-
 
 
 ## Objetivos Generales 
@@ -45,10 +42,6 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 | k | Reconocer características y posibilidades de los componentes físicos y lógicos, para asesorar y asistir a clientes. |
 | l | Detectar y analizar cambios tecnológicos para elegir nuevas alternativas y mantenerse actualizado dentro del sector. |
 | m | Reconocer y valorar incidencias, determinando sus causas y describiendo las acciones correctoras para resolverlas. |
-|<img width=100/>|<img width=500/>|
-
-
-
 
 
 ## Competencias del Título 
@@ -67,8 +60,6 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 | n |  Mantener un espíritu constante de innovación y actualización en el ámbito del sector informático. |
 | ñ |  Utilizar los medios de consulta disponibles, seleccionando el más adecuado en cada caso, para resolver en tiempo razonable supuestos no conocidos y dudas profesionales. |
 | r |  Resolver problemas y tomar decisiones individuales siguiendo las normas y procedimientos establecidos definidos dentro del ámbito de su competencia. |
-|<img width=100/>|<img width=500/>|
-
 
 
 ## Secuenciación de las Unidades de Programación. 
@@ -166,11 +157,11 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Calificaciones parciales**: cada docente incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
-La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
-
-De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
+La **Evaluación de cada Resultado de Aprendizaje** se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación para las pruebas objetivas ya que siempre estarán basadas en las actividades propuestas. La falta de entrega de estas actividades prácticas supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas.
 
 En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+
+La Ponderación de cada **RA** se indica en el Esquema General.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
