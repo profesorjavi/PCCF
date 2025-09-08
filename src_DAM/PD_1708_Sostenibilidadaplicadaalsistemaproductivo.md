@@ -113,11 +113,12 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Calificaciones parciales**: cada docente incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
-La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
-
-De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
+La **Evaluación de cada Resultado de Aprendizaje** se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación para las pruebas objetivas ya que siempre estarán basadas en las actividades propuestas. La falta de entrega de estas actividades prácticas supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas.
 
 En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+
+La Ponderación de cada **RA** se indica en el Esquema General.
+
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -184,8 +185,7 @@ recuperación
 1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs 
    durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
 2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo 
-   de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará
-   al calendario propuesto por el centro.
+   de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará al calendario propuesto por el centro.
 
 ### Convocatoria Extraordinaria
 
