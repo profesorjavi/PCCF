@@ -7,6 +7,9 @@ Proyectos Curriculares de la Familia de Informática, así como la posibilidad d
 las diferentes hojas de cálculo de las Programaciones Didácticas de los Módulos
 a partir de los contenidos del BOE que se leen desde diferentes JSON.
 
+Se trata de un proyecto en desarrollo, que contiene toda la información de los 
+diferentes ciclos.
+
 ## Ciclos Formativos
 
 | Siglas | Nombre Completo | Nivel |
