@@ -85,16 +85,19 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
 Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Título                                               | Inicio    | Fin       |
+|--------|------------------------------------------------------|-----------|-----------|
+| 01     | UP01: Procesadores de texto                          | 09/09/2025| 22/10/2025|
+| 02     | UP02: Presentaciones digitales                       | 24/10/2025| 31/10/2025|
+| 03     | UP03: Edición de imagen digital                      | 04/11/2025| 21/11/2025|
+| 04     | UP04: Instalación de aplicaciones ofimáticas         | 25/11/2025| 12/12/2025|
+| 05     | UP05: Soporte al usuario de aplicaciones ofimáticas  | 16/12/2025| 19/12/2025|
+| 06     | UP06: Hojas de cálculo                               | 07/01/2026| 17/02/2026|
+| 07     | UP07: Gestión de correo y agenda electrónica         | 18/02/2026| 25/02/2026|
+| 08     | UP08: Edición de video digital                       | 27/02/2025| 06/03/2026|
+| 09     | UP09: Bases de datos ofimáticas                      | 10/03/2026| 08/05/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
