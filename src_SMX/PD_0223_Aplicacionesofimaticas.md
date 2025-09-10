@@ -96,8 +96,8 @@ Se propone esta tabla
 | 05     | UP05: Soporte al usuario de aplicaciones ofimáticas  | 16/12/2025| 19/12/2025|
 | 06     | UP06: Hojas de cálculo                               | 07/01/2026| 17/02/2026|
 | 07     | UP07: Gestión de correo y agenda electrónica         | 18/02/2026| 25/02/2026|
-| 08     | UP08: Edición de video digital                       | 27/02/2025| 06/03/2026|
-| 09     | UP09: Bases de datos ofimáticas                      | 10/03/2026| 08/05/2025|
+| 08     | UP08: Edición de video digital                       | 27/02/2026| 06/03/2026|
+| 09     | UP09: Bases de datos ofimáticas                      | 10/03/2026| 08/05/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
