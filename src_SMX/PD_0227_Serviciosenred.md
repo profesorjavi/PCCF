@@ -233,7 +233,7 @@ La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve
   *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
 La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar 
 
-La nota de la parte dualizada se obtendrá en función del seguimiento de la FE, así como de la presentación final del alumno.
+La nota del RA en su parte dualizada se obtendrá en función del seguimiento de la FE, así como de la presentación final del alumno.
 
 ### Recuperación: 
 
