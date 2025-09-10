@@ -175,7 +175,7 @@ La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General
 
 La ponderación de cada Resultado de Aprendizaje (RA) se detalla en el Esquema General:
 
-Nota final = 0,15*RA1 + 0,15*RA2 + 0,07*RA3 + 0,1*RA4 + 0,18*R5 + 0,1*RA6 + 0,1*RA7
+Nota final = 0,15*RA1 + 0,15*RA2 + 0,07*RA3 + 0,1*RA4 + 0,18*R5 + 0,1*RA6 + 0,1*RA7 + 0,15*RA8
 
 En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, cuando no se evalue la parte no dualizada vista en el centro, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
 
