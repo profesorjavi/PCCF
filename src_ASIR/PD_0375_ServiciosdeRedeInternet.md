@@ -73,14 +73,13 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Construye Terraformadores  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Configura Terraformadores     | 15/09/2025| 21/10/2025|
-| 03     | UP03: Primer cliente   | 20/10/2025| 10/12/2025|
-| 04     | UP04: DHCP en alta disponibilidad   | 5/11/2025| 18/12/2025|
-| 05     | UP05: Servidor de hosting   | 10/01/2025| 30/01/2025|
-| 06     | UP06: Servidor de streaming   | 20/01/2025| 20/02/2025|
-| 07     | UP06: Servidor de mensajeria   | 20/02/2025| 10/03/2025|
-| 08     | UP06: Servidor de correo   | 20/02/2025| 10/03/2025|
+| 01     | UP01: Servidor DNS para hosting público  | 08/09/2025| 30/09/2025|
+| 02     | UP02: DHCP en alta disponibilidad     | 01/10/2025| 31/10/2025|
+| 03     | UP03: Servidor de Hosting   | 01/11/2025| 14/12/2025|
+| 04     | UP04: Servidor de Correo   | 15/12/2025| 19/12/2025|
+| 05     | UP05: Servidor de streaming   | 20/12/2025| 23/01/2025|
+| 06     | UP06: Mensajería   | 24/01/2025| 06/02/2025|
+
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -166,11 +165,11 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje (RA) se detalla en el Esquema General:
 
-Nota final = 0,2 × (RA1 + RA2) + 0,25 × RA3 + 0,05 × (RA4 + RA6 + RA7) + 0,1 × (RA5 + RA8)
+Nota final = 0,2*RA1 + 0,2*RA2 + 0,2*RA3 + 0,08*RA4 + 0,05*R5 + 0,1*RA6 + 0,1*RA7 + 0,07*RA8
 
-En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
+En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, cuando no se evalue la parte no dualizada vista en el centro, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
 
-En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+En la convocatoria ordinaria, si el alumno ha mantiene el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -221,6 +220,8 @@ La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve
 * Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
   *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
 La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar 
+
+La nota del RA en su parte dualizada se obtendrá en función del seguimiento de la FE, así como de la presentación final del alumno.
  
  
 ### Recuperación: 
@@ -256,5 +257,6 @@ En este curso no se ha planificado ninguna actividad extraescolar
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
 ## Esquema General de Servicios de Red e Internet
+
 
 
