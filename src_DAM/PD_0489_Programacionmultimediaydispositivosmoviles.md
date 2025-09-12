@@ -77,16 +77,34 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
+| Número | Título                                                                    |Trimestre|
+|--------|---------------------------------------------------------------------------|---------|
+| 01     | UP01: Análisis de tecnologías para aplicaciones en dispositivos móviles.  |Primero  |
+| 02     | UP02: Desarrollo de Interfaces Modernas con Jetpack Compose en Android.   |Primero  |
+| 03     | UP03: Arquitectura y Organización de Proyectos en Jetpack Compose.        |Primero  |
+| 04     | UP04: Layouts en Compose.                                                 |Primero  |
 
-Se propone esta tabla
+| 05     | UP05: Componentes básicos.                                                |Primero  |
+| 06     | UP06: Estructura de interfaz de usuario.                                  |Primero  |
+| 07     | UP07: Componentes avanzados.                                              |Primero  |
+| 08     | UP08: Navegación                                                          |Primero  |
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 09     | UP9: Carga y visualización de imágenes.                                   |Primero  |
+| 10     | UP10: Reproducción de audio.                                              |Primero  |
+| 11     | UP11: Reproducción de vídeo.                                              |Primero  |
+| 12     | UP12: Animaciones.                                                        |Primero  |
+
+| 13     | UP13: Entorno de desarrollo en Unity.                                     |Segundo  |
+| 14     | UP14: Arquitectura de juegos en Unity.                                    |Segundo  |
+| 15     | UP15: Pruebas y primeros prototipos.                                      |Segundo  |
+
+| 16     | UP16: Elementos multimedia en juegos.                                     |Segundo  |
+| 17     | UP17: Desarrollo de juego 3D sencillo.                                    |Segundo  |
+| 18     | UP18: Exportación y evaluación del juego.                                 |Segundo  |
+
+
+
+
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -243,7 +261,10 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+*Actividad: Asistencia a un scape room.*
+Objetivo: Desarrollar habilidades de colaboración y comunicación efectiva en situaciones de presión; aplicar el razonamiento deductivo e inductivo para resolver retos secuenciales y conectar pistas; aprender a mantener la calma y priorizar tareas con eficacia en un entorno limitado temporalmente; fortalecer la relación entre compañeros y mejorar el clima del aula.
+Fecha: finales de noviembre.
+
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -253,4 +274,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 
-NO RELLENAR.
