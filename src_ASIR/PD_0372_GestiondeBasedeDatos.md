@@ -66,16 +66,30 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
 
-Se propone esta tabla
+| Número | Título                                                              |Trimestre|
+|--------|---------------------------------------------------------------------|---------|
+| 01     | UP01: Introducción al sistema de almacenamiento de la información.  |Primero  |
+| 02     | UP02: Modelos de bases de datos más comunes.                        |Primero  |
+| 03     | UP03: Herramientas Case.                                            |Primero  |
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 04     | UP04: Diseño de diagramas entidad-relación.                         |Primero  |
+| 05     | UP05: Diseño de diagramas relacionales.                             |Primero  |
+| 06     | UP06: Normalización de tablas.                                      |Primero  |
+
+| 07     | UP07: Creación de bases de datos con herramientas gráficas.         |Segundo  |
+| 08     | UP08: Lenguaje de definición de datos.                              |Segundo  |
+
+| 09     | UP09: Lenguaje de manipulación de datos básico.                     |Segundo  |
+| 10     | UP10: Lenguaje de manipulación de datos avanzado.                   |Segundo  |
+
+| 11     | UP11: Uso de guiones (cursores).                                    |Tercero  |
+
+| 12     | UP12: Lenguaje de control de datos.                                 |Tercero  |
+| 13     | UP13: Copias de seguridad.                                          |Tercero  |
+| 14     | UP14: Bases de datos documentales.                                  |Tercero  |
+
+
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -232,7 +246,9 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+*Actividad: Asistencia a un scape room.*
+Objetivo: Desarrollar habilidades de colaboración y comunicación efectiva en situaciones de presión; aplicar el razonamiento deductivo e inductivo para resolver retos secuenciales y conectar pistas; aprender a mantener la calma y priorizar tareas con eficacia en un entorno limitado temporalmente; fortalecer la relación entre compañeros y mejorar el clima del aula.
+Fecha: finales de noviembre.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
