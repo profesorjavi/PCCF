@@ -94,8 +94,6 @@ el fin de aportar más claridad.
 ```
 ### Hoja de Cálculo
 
-(Por ahora no hacer nada)
-
 La Hoja de Cálculo Compartida en el repositorio del Departamento ha de ser rellenada con los pesos y 
 secuenciaciones de horas adecuadas. Cuando todo el departamento haya rellenado la hoja de cálculo con sus 
 pesos y horas, se construirán las diferentes Programaciones Didácticas estableciendo como última página del PDF
