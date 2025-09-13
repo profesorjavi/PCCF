@@ -74,16 +74,20 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
+| Número | Título                                                   |Trimestre|
+|--------|----------------------------------------------------------|---------|
+| 01     | UP01: Introducción a la seguridad Informática.           |Primero  |
+| 02     | UP02: Seguridad pasiva.                                  |Primero  |
 
-Se propone esta tabla
+| 03     | UP03: Almacenamiento.                                    |Primero  |
+| 04     | UP04: Copias de seguridad.                               |Primero  |
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 05     | UP05: Criptografía.                                      |Segundo  |
+| 06     | UP06: Herramientas de seguridad en el sistema operativo. |Segundo  |
+
+| 07     | UP07: Seguridad Activa en redes.                         |Segundo  |
+
+| 08     | UP08: Legislación europea y española.                    |Segundo  |
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -169,7 +173,14 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+El cálculo ponderado de la nota de los RAs será:
+
+| Prueba objetiva                                    | Porcentaje|
+|----------------------------------------------------|-----------|
+| Nota obtenida en el examen.                        |     95%   |
+| Nota obtenida en las prácticas obligatorias.       |     5%    |
+
+La nota media del módulo será la obtenida del cálculo de los porcentajes de cada RA.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -212,8 +223,7 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+El cálculo de la calificación de un RA Dualizado será en relación al porcentaje de horas que se dualicen de cada RA. Se tendrá en cuenta el peso de los criterios de evaluación dentro del RA para calcularlos en proporción, siendo la nota de la formación en la empresa, en función del seguimiento de la FE, así como de la presentación final del alumno.
 
 ### Recuperación: 
 
@@ -240,7 +250,9 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+**Actividad: Asistencia a un scape room.**
+Objetivo: Desarrollar habilidades de colaboración y comunicación efectiva en situaciones de presión; aplicar el razonamiento deductivo e inductivo para resolver retos secuenciales y conectar pistas; aprender a mantener la calma y priorizar tareas con eficacia en un entorno limitado temporalmente; fortalecer la relación entre compañeros y mejorar el clima del aula.
+Fecha: finales de noviembre.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -249,5 +261,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 ## Esquema General de Seguridad informática
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.

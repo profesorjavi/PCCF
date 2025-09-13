@@ -89,22 +89,16 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 | 07     | UP07: Componentes avanzados.                                              |Primero  |
 | 08     | UP08: Navegación                                                          |Primero  |
 
-| 09     | UP9: Carga y visualización de imágenes.                                   |Primero  |
-| 10     | UP10: Reproducción de audio.                                              |Primero  |
-| 11     | UP11: Reproducción de vídeo.                                              |Primero  |
-| 12     | UP12: Animaciones.                                                        |Primero  |
+| 09     | UP9: Componentes básicos multimedia.                                   |Primero  |
+| 10     | UP10: Animaciones.                                                        |Primero  |
 
-| 13     | UP13: Entorno de desarrollo en Unity.                                     |Segundo  |
-| 14     | UP14: Arquitectura de juegos en Unity.                                    |Segundo  |
-| 15     | UP15: Pruebas y primeros prototipos.                                      |Segundo  |
+| 11     | UP11: Entorno de desarrollo en Unity.                                     |Segundo  |
+| 12     | UP12: Arquitectura de juegos en Unity.                                    |Segundo  |
+| 13     | UP13: Pruebas y primeros prototipos.                                      |Segundo  |
 
-| 16     | UP16: Elementos multimedia en juegos.                                     |Segundo  |
-| 17     | UP17: Desarrollo de juego 3D sencillo.                                    |Segundo  |
-| 18     | UP18: Exportación y evaluación del juego.                                 |Segundo  |
-
-
-
-
+| 14     | UP14: Elementos multimedia en juegos.                                     |Segundo  |
+| 15     | UP15: Desarrollo de juego 3D sencillo.                                    |Segundo  |
+| 16     | UP16: Exportación y evaluación del juego.                                 |Segundo  |
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -190,7 +184,26 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+La nota del RA 1 será:
+
+| Prueba objetiva                              | Porcentaje|
+|----------------------------------------------|-----------|
+| Nota obtenida en el examen.                  |    100%   |
+
+El cálculo ponderado de la nota de los RAs 2 y 3 será:
+
+| Prueba objetiva                              | Porcentaje|
+|----------------------------------------------|-----------|
+| Nota obtenida en el examen práctico.         |     70%   |
+| Nota obtenida en las prácticas obligatorias. |     30%   |
+
+La nota de los RAs 4 y 5 será:
+
+| Prueba objetiva                              | Porcentaje|
+|----------------------------------------------|-----------|
+| Nota obtenida en la práctica obligatoria.    |    100%   |
+
+La nota media del módulo será la obtenida del cálculo de los porcentajes de cada RA.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -233,8 +246,7 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+El cálculo de la calificación de un RA Dualizado será en relación al porcentaje de horas que se dualicen de cada RA. Se tendrá en cuenta el peso de los criterios de evaluación dentro del RA para calcularlos en proporción, siendo la nota de la formación en la empresa, en función del seguimiento de la FE, así como de la presentación final del alumno.
 
 ### Recuperación: 
 
@@ -261,7 +273,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-*Actividad: Asistencia a un scape room.*
+**Actividad: Asistencia a un scape room.**
 Objetivo: Desarrollar habilidades de colaboración y comunicación efectiva en situaciones de presión; aplicar el razonamiento deductivo e inductivo para resolver retos secuenciales y conectar pistas; aprender a mantener la calma y priorizar tareas con eficacia en un entorno limitado temporalmente; fortalecer la relación entre compañeros y mejorar el clima del aula.
 Fecha: finales de noviembre.
 

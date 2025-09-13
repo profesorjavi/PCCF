@@ -175,7 +175,23 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+La nota del RA 1 será:
+
+| Prueba objetiva                              | Porcentaje|
+|----------------------------------------------|-----------|
+| Nota obtenida en el examen.                  |    100%   |
+
+El cálculo ponderado de la nota de los RAs 2, 3, 4, 5 y 6 será:
+
+| Prueba objetiva                                    | Porcentaje|
+|----------------------------------------------------|-----------|
+| Nota obtenida en el examen práctico.               |     90%   |
+| Nota obtenida en las prácticas obligatorias.       |     5%    |
+| Álcance de las competencias para la empleabilidad. |     5%    |
+
+Existen prácticas obligatorias para cumplir alguno de los criterios de evaluación. La nota del criterio será la de la práctica obligatoria, restando este porcentaje del porcentaje del examen práctico.
+
+La nota media del módulo será la obtenida del cálculo de los porcentajes de cada RA.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -218,8 +234,7 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+El cálculo de la calificación de un RA Dualizado será en relación al porcentaje de horas que se dualicen de cada RA. Se tendrá en cuenta el peso de los criterios de evaluación dentro del RA para calcularlos en proporción, siendo la nota de la formación en la empresa, en función del seguimiento de la FE, así como de la presentación final del alumno.
 
 ### Recuperación: 
 
@@ -246,7 +261,11 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-*Actividad: Asistencia a un scape room.*
+**Actividad: Jornada Xprende.**
+Objetivo: poner en práctica Aprendizaje Colaborativo basado en Retos (ACR), enfrentando a los estudiantes a situaciones auténticas que podrían encontrar en el mundo laboral.
+Fecha: finales de septiembre.
+
+**Actividad: Asistencia a un scape room.**
 Objetivo: Desarrollar habilidades de colaboración y comunicación efectiva en situaciones de presión; aplicar el razonamiento deductivo e inductivo para resolver retos secuenciales y conectar pistas; aprender a mantener la calma y priorizar tareas con eficacia en un entorno limitado temporalmente; fortalecer la relación entre compañeros y mejorar el clima del aula.
 Fecha: finales de noviembre.
 
@@ -257,5 +276,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 ## Esquema General de Gestión de Base de Datos
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
