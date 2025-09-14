@@ -62,16 +62,15 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
-
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Unidad Didáctica | Resultado de Aprendizaje (RA) | Horas estimadas | Fecha Inicio |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | **U.D. 1:** Digitalización en los sistemas productivos | **RA1** | 4 horas | 15 de septiembre de 2025 |
+| 2 | **U.D. 2:** Caracterización de tecnologías habilitadoras | **RA2** | 2 horas | 13 de octubre de 2025 |
+| 3 | **U.D. 3:** Computación en la nube | **RA3** | 2 horas | 27 de octubre de 2025 |
+| 4 | **U.D. 4:** Inteligencia artificial | **RA4** | 3 horas | 10 de noviembre de 2025 |
+| 5 | **U.D. 5:** Big data | **RA5** | 2 horas | 1 de diciembre de 2025 |
+| 6 | **U.D. 6:** Ciberseguridad | **RA5** | 2 horas | 12 de enero de 2026 |
+| 7 | **U.D. 7:** Proyecto de transformación digital | **RA6** | 2 horas | 26 de enero de 2026 |
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -155,9 +154,12 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Calificaciones parciales**: cada docente incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
-La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+La **Evaluación de cada Resultado de Aprendizaje** se obtendrá a partir de pruebas objetivas y entrega de tareas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación para las pruebas objetivas ya que siempre estarán basadas en las actividades propuestas.
+
+En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+
+La Ponderación de cada **RA** se indica en el Esquema General.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -201,7 +203,18 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve a cabo de forma compartida entre la empresa y el instituto se determinará en función de la proporción de horas realizadas en cada uno de los ámbitos. En ambos casos, la valoración se expresará en una escala de 1 a 10, ponderándose posteriormente según el número de horas desarrolladas en la empresa y en el instituto, respectivamente.
+
+* Si un RA se desarrolla en un 20 % en la empresa y en un 80 % en el instituto, la calificación final se obtendrá ponderando las notas asignadas en cada ámbito en esas proporciones.
+  *(Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 × 0,20) + (7 × 0,80) = 7,2).*
+
+* Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
+  *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
+La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar 
+
+La nota del RA en su parte dualizada se obtendrá en función del seguimiento de la FE, así como de la presentación final del alumno.
+ 
+ 
 
 ### Recuperación: 
 
@@ -228,7 +241,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+En este curso no se ha planificado ninguna actividad extraescolar
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
