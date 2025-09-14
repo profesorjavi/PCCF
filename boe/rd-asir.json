@@ -520,7 +520,7 @@
                                 "c": "Se han identificado las características definitorias de los nuevos entornos de organización del trabajo y los derechos que conlleval.",
                                 "d": "Se han identificado los diferentes componentes del recibo de salario.",
                                 "e": "Se han identificado los recursos laborales existentes ante las diferentes vicisitudes que se pueden dar en la relación laboral,",
-                                "f": "Se ha valorado el papel de laSeguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.",
+                                "f": "Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.",
                                 "g": "Se han analizado las principales prestaciones derivadas de la suspensión y extinción de la relación laboral."}},
                     "RA04": {
                     "Resultado": " Analiza y evalúa su potencial profesional y sus intereses para guiarse en el proceso de auto orientación y elabora una hoja de ruta para la inserción profesional en base al análisis de las competencias, intereses y destrezas personales.",
@@ -1269,7 +1269,7 @@
                 }
         },
         "0378":{
-            "nombre":"Seguridad y Alta Disponibilidad.",
+            "nombre":"Seguridad y Alta Disponibilidad",
             "horas": "133",
             "UnidadesCompetenciaAcreditadas" : {
                 "UC0486_3": "Asegurar equipos informáticos."
