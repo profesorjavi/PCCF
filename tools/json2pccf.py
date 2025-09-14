@@ -46,9 +46,12 @@ for codigo in data_box.ModulosProfesionales:
     modulo.OG=data_box.ObjetivosGenerales
 
     fmod = "./temp/PD_"+str(codigo)+"_"+modulo.nombre.replace(" ","")+".md"
+    
+    # Esto hay que hacerlo aqui
+    fmod = fmod.replace('á','a').replace('é','e').replace('í','i').replace('ó','o').replace('ú','u')
 
     if os.path.exists(fmod):
-        print(" Fichero ya presente: , nada que hacer.")
+        print(" Fichero ya presente: , nada que hacer: "+str(fmod))
         print(" Se utilizara el ya subido de "+modulo.nombre.replace(" ",""))
         print("")
 
@@ -63,8 +66,6 @@ for codigo in data_box.ModulosProfesionales:
 
         # Quitamos las Tildes graficas
         # Fixes : #2
-
-        fmod = fmod.replace('á','a').replace('é','e').replace('í','i').replace('ó','o').replace('ú','u')
 
         fmodulo = open(fmod,"w")
         fmodulo.write(outputText)
