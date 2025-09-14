@@ -13,8 +13,8 @@ Tiene una correspondéncia de Créditos de 8.
 
 |Código| Descripción del estándar |
 |-----------------------|-------------|
-| UC0490_3 | Gestionar servicios en el sistema informático. |
-| UC0485_3 | Instalar, configurar y administrar el software de base y de aplicación del sistema. |
+| UC0490\_3 | Gestionar servicios en el sistema informático. |
+| UC0485\_3 | Instalar, configurar y administrar el software de base y de aplicación del sistema. |
 
 ## Resultados de Aprendizaje
 
@@ -107,8 +107,6 @@ Se parte del reconocimiento de la diversidad como un valor y una oportunidad par
 Las adaptaciones específicas, tanto metodológicas como organizativas, se concretarán en las **Situaciones de Aprendizaje**, donde se detallarán las actuaciones necesarias para atender a las necesidades individuales del alumnado, siempre en coordinación con los servicios de orientación y el equipo docente.
 
 ## Evaluación del aprendizaje. 
-
-
 
 ### Principios y objeto de la evaluación 
 
