@@ -174,6 +174,8 @@ La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General
 
 El RA6 se dualizará totalmente, y su calificación será el 10% de la calificación del curso (esto es, 1 punto).
 
+La calificación del boletín de notas del trimestre 1 es orientativa y se obtendrá de las calificaciones de las UP1, UP2 y UP3 (que dado en conjunto suponen el 50% de la calificación del curso, a los meros efectos del boletín su valor se duplicará).
+
 La actitud, reflejada entre otros aspectos en la asistencia tanto al módulo como a otras actividades realizadas en el centro, aunque sean en horario diferente, servirá para redondear la calificación final del curso.
 
 
