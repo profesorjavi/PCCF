@@ -60,16 +60,14 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
 
-Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Título                                                                               | Trimestre | RA        |
+|--------|--------------------------------------------------------------------------------------|-----------|-----------|
+| UP1    | HTML y tecnologías asociadas                                                         |    1,2    |    2,3    |
+| UP2    | Gestión de contenidos                                                                |     3     |     7     |
+| UP3    | XML, tecnologías asociadas y otros lenguajes de marcas e intercambio de contenidos   |     3     |   4,5,6   |
+
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -155,7 +153,17 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+El porcentaje de peso previsto en la calificación final del curso que tiene asociado cada RA en el seno de cada unidad de programación es:
+
+- UP1: 60% (RA2, RA3), obtenida mediante actividades de trimestre 1 (20%), examen 1 (10%), actividades de trimestre 2 (20%) y examen 2 (10%)
+- UP2: 20% (RA7), obtenida mediante proyecto de aula (situación de aprendizaje)
+- UP3: 10% (RA4, RA5, RA6), obtenida mediante actividades de aula (10%)
+
+El RA1 se dualizará totalmente y su calificación supondrá un 10% de la calificación final del curso (esto es, 1 punto).
+
+La calificación del boletín de notas del trimestre 1 es orientativa y se obtendrá de las calificaciones de una selección de las actividades propuestas (20%) y prueba específica (examen 1: 10%). Análogamente, la calificación del boletín 2 se obtendrá mediante las calificaciones de una selección de las actividades propuestas en el segundo trimestre (20%) y prueba específica (examen 2: 10%).
+
+La actitud, reflejada entre otros aspectos en la asistencia tanto al módulo como a otras actividades realizadas en el centro, aunque sean en horario diferente, servirá para redondear la calificación final del curso.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -199,7 +207,8 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+La calificación del RA dualizado (RA1) se realizará mediante entrega de memoria y/o exposición del trabajo efectuado en la empresa en relación al mismo.
+
 
 ### Recuperación: 
 
@@ -226,7 +235,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+No se prevén.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -234,6 +243,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Lenguajes de marcas y sistemas de gestión de información
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
