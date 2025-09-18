@@ -169,7 +169,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+Se aplicarán las ponderaciones establecidas para cada RA que resultarán en una media ponderada de los mismos.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -213,7 +213,7 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+Se aplicarán las ponderaciones establecidas para cada RA que resultarán en una media ponderada de los mismos.
 
 ### Recuperación: 
 
@@ -240,7 +240,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+El departamento de informática ha planificado diversas salidas de los alumnos para visitar las universidades UPV y UV. Además se realizarán visitas a empresas del ramo.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
