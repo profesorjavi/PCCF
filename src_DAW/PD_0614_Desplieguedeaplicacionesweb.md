@@ -166,17 +166,19 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-- UP1 y UP2: evaluación conjunta mediante prueba específica. El porcentaje de la calificación del curso será 25% (RA1), 2,5% (RA4) y 2,5% (RA5).
+- UP1 y UP2: evaluación conjunta mediante prueba específica (examen escrito) , que supondrá el 25% de la calificación del curso, y selección de actividades de aula, que supondrá un 5% de la calificación del curso. La ponderación de los RA será RA1 25%, RA4 2,5% y RA5 2,5%.
 
 - UP3: 20% calificación del curso, evaluada mediante proyecto de aula (situación de aprendizaje).
 
 - UP4: 40% calificación del curso, evaluada mediante proyecto de aula (situación de aprendizaje, 25%) y selección de actividades (15%).
 
-El RA6 se dualizará totalmente, y su calificación será el 10% de la calificación del curso (esto es, 1 punto).
+El RA6 se dualizará totalmente, y su calificación será el 10% de la calificación del curso (esto es, 1 punto). Se documentará el trabajo desarrollado, tanto en el propio código como, en su caso, en un informe del que se hará entrega o bien se expondrá.
 
-La calificación del boletín de notas del trimestre 1 es orientativa y se obtendrá de las calificaciones de las UP1, UP2 y UP3 (que dado en conjunto suponen el 50% de la calificación del curso, a los meros efectos del boletín su valor se duplicará).
+La calificación del boletín de notas del trimestre 1 es orientativa y se obtendrá de las calificaciones de las UP1, UP2 y UP3 (que dado en conjunto suponen el 50% de la calificación del curso, a los meros efectos del boletín su valor se duplicará). La calificación se redondeará al entero inferior a los meros efectos del boletín, sin perjuicio de que los decimales se conserven para el cálculo de la calificación final del curso.
 
-La actitud, reflejada entre otros aspectos en la asistencia tanto al módulo como a otras actividades realizadas en el centro, aunque sean en horario diferente, servirá para redondear la calificación final del curso.
+La calificación de las actividades sufrirá una penalización de 0,5 puntos por cada día de retraso sobre la fecha máxima de entrega.
+
+La actitud, reflejada entre otros aspectos en el interés mostrado, la participación en clase y la asistencia tanto al módulo como a otras actividades realizadas en el centro, aunque sean en horario diferente al de clase, servirá para redondear la calificación final del curso.
 
 
 
