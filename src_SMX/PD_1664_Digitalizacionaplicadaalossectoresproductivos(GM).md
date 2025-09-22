@@ -65,10 +65,10 @@ Se propone esta tabla
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Desafío 1. Economía Circular | 08/09/2025| 08/10/2025|
+| 02     | UP02: Desafio 2. Almacenamiento en Cloud / nube   | 09/10/2025| 05/12/2025|
+| 03     | UP03: Desafío 3. Transformación Digital  | 06/12/2025| 16/12/2025|
+| 04     | UP04: Desaafio 4. Plan de Digitalización  | 17/12/2025| 06/02/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -154,7 +154,14 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+La ponderación de cada Resultado de Aprendizaje (RA) se detalla en el Esquema General:
+
+Nota final = 0,1*RA1 + 0,1*RA2 + 0,4*RA3 + 0,1*RA4 + 0,3*RA5
+
+En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, cuando no se evalue la parte no dualizada vista en el centro, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
+
+En la convocatoria ordinaria, si el alumno ha mantiene el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
+
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -231,7 +238,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+En este curso no se ha planificado ninguna actividad extraescolar
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -240,5 +247,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 ## Esquema General de Digitalización aplicada a los sectores productivos (GM)
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
