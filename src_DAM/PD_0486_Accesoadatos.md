@@ -81,12 +81,14 @@ A RELLENAR POR DOCENTE
 
 Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Título                                  | Inicio    | Fin       |
+|--------|-----------------------------------------|-----------|-----------|
+| 01     | UP01: Acceso a ficheros                 | 10/09/2025| 03/10/2025|
+| 02     | UP02: Acceso a BD relacionales          | 08/10/2025| 29/10/2025|
+| 03     | UP03: Mapeo de objetos relacional ORM   | 31/10/2025| 21/11/2025|
+| 04     | UP04: Uso de Firebase                   | 26/11/2025| 12/12/2025|
+| 05     | UP05: Consumir servicios web (API's)    | 17/12/2025| 14/01/2026|
+| 06     | UP06: Acceso a BD NoSQL                 | 16/01/2025| 30/01/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
