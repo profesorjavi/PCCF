@@ -164,6 +164,10 @@ La calificación del boletín de notas del trimestre 1 es orientativa y se obten
 
 La actitud, reflejada entre otros aspectos en la asistencia tanto al módulo como a otras actividades realizadas en el centro, aunque sean en horario diferente, servirá para redondear la calificación final del curso.
 
+Las actividades tendrán una penalización de 0,5 puntos por cada día de retraso. Para obtener la calificación se hará una selección de actividades.
+
+La calificación que figure en el boletín de cada trimestre se obtendrá en todo caso redondeando al entero inferior, sin perjuicio de que esa calificación sólo tenga carácter orientativo, ya que la que se usará para el cálculo de la nota final del curso tendrá en cuenta decimales.
+
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
 Cada módulo se divide en **Unidades de Programación (UP) o Situaciones de Aprendizaje (SA)** que agrupan Resultados de Aprendizaje y sus criterios de evaluación. A cada RA se le asigna un **peso evaluativo** y una **carga horaria** proporcional. 
