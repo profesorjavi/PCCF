@@ -77,7 +77,7 @@ A RELLENAR POR DOCENTE
 
 Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |56 sesiones
+| Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
 | 01     | Network Operating Systems: Introduction and Installation.                       | 10/09/2025| 25/09/2025|
 | 02     | Domains: Concept, Installation and Management.                                  | 29/09/2025| 27/10/2025|
