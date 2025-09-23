@@ -78,16 +78,13 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Introducció als sistemes informàtics  | 08/09/2025| 05/10/2025|
+| 02     | UP02: SO Linux     | 06/10/2025| 30/11/2025|
+| 03     | UP03: SO Windows   | 01/12/2025| 08/03/2026|
+| 04     | UP04: Serveis en xarxa   | 09/03/2026| 08/06/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -216,13 +213,14 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
+* Si un RA se desarrolla completamente en la empresa, la calificación final coincidirá será la que el profesor considere una vez oida la opinión de la empresa y valorada la exposición final del trabajo realizado en empresa.
+* Si un RA se desarrolla parcialmente en la empresa y el resto en el aula, la calificación final será ponderada teniendo en cuenta los porcentajes del RA desarrollados en empresa o aula.
+ *(Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 × 0,20) + (7 × 0,80) = 7,2).*
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
 
 ### Recuperación: 
 
 Para el alumnado que **no haya superado algún módulo o RA** se establecerá un **programa de recuperación individual** que se diseñará de forma diferenciada según periodos: 
-recuperación 
 
 - No superados en la **evaluación ordinaria de primero o segundo**: se podrán recuperar en la **convocatoria extraordinaria** .
 - **Alumnos de segundo curso con módulos no superados de primero**: Se diseñará para que el alumnado lo pueda realizar simultáneamente con los módulos de segundo **sin garantizarse su asistencia a clase**. Dispondrá de **convocatoria ordinaria y extraordinaria**. 
@@ -244,7 +242,8 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+ - Asistencia a les Jornades InforSénia
+ - Visita Fira València
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
