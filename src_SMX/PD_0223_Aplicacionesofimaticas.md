@@ -85,7 +85,6 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-Se propone esta tabla
 
 | Número | Título                                               | Inicio    | Fin       |
 |--------|------------------------------------------------------|-----------|-----------|
