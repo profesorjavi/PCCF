@@ -73,10 +73,6 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
-
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
 | 01     | Network Operating Systems: Introduction and Installation.                       | 10/09/2025| 25/09/2025|
