@@ -73,16 +73,14 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
-
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | Network Operating Systems: Introduction and Installation.                       | 10/09/2025| 25/09/2025|
+| 02     | Domains: Concept, Installation and Management.                                  | 29/09/2025| 27/10/2025|
+| 03     | Managing Domain Users: Administration and Organisation                          | 29/10/2025| 24/11/2025|
+| 04     | Managing Shared Resources: Types, Rights and Permissions                        | 26/11/2025| 08/01/2026|
+| 05     | Integration of Open-Source and Proprietary Systems: Advantages and Disadvantages| 12/01/2026| 22/01/2026|
+| 06     | System Monitoring: Tools                                                        | 26/01/2026| 05/02/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -168,7 +166,11 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+Nota final = 0,1(RA1+RA5) + 0,24(RA2+RA3) + 0,16*(RA4+RA6)
+
+En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, la calificación se distribuirá en un 20% para la parte práctica y un 80% para una prueba objetiva.
+
+En la convocatoria ordinaria, si el alumno ha mantiene el proceso de evaluación continua, se mantendrá este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -211,8 +213,14 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
+La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve a cabo de forma compartida entre la empresa y el instituto se determinará en función de la proporción de horas realizadas en cada uno de los ámbitos. En ambos casos, la valoración se expresará en una escala de 1 a 10, ponderándose posteriormente según el número de horas desarrolladas en la empresa y en el instituto, respectivamente.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+* Si un RA se desarrolla en un 20 % en la empresa y en un 80 % en el instituto, la calificación final se obtendrá ponderando las notas asignadas en cada ámbito en esas proporciones.
+  *(Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 × 0,20) + (7 × 0,80) = 7,2).*
+
+* Si un RA se desarrolla íntegramente en la empresa (100 %), la calificación final coincidirá con la nota otorgada en la empresa.
+  *(Ejemplo: Nota empresa = 9 → Calificación final = 9).*
+La nota del RA realizado en la empresa se obtendrá en función de la información del trabajo en la empresa y de la exposición que realizaran al acabar.
 
 ### Recuperación: 
 
@@ -239,7 +247,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+En este curso no se ha planificado ninguna actividad extraescolar
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -247,6 +255,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Sistemas operativos en red
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.

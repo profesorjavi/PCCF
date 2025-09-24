@@ -203,6 +203,7 @@ Para superar un RA dualizado se debe **superar tanto la parte impartida en el ce
 
 
 !!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+prueba
 
 ### Recuperación: 
 
@@ -239,4 +240,4 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 
-NO RELLENAR.
+NO RELLENAR. PRUEBA

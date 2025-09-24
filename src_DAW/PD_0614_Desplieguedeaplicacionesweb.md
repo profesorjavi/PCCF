@@ -73,16 +73,14 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
 
-Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Título                                        |   Trimestre  |  RA Asociados  |
+|--------|-----------------------------------------------|--------------|-----------------
+| 01     | UP01: Arquitecturas web                       |       1      |    1, 4, 5     |
+| 02     | UP02: Sistemas avanzados de virtualización    |       1      |       1        |
+| 03     | UP03: Gestores de contenidos                  |       1      |       2        |
+| 04     | UP04: Servidores de aplicaciones              |       2      |       3        |
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -168,7 +166,21 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+- UP1 y UP2: evaluación conjunta mediante prueba específica (examen escrito) , que supondrá el 25% de la calificación del curso, y selección de actividades de aula, que supondrá un 5% de la calificación del curso. La ponderación de los RA será RA1 25%, RA4 2,5% y RA5 2,5%.
+
+- UP3: 20% calificación del curso, evaluada mediante proyecto de aula (situación de aprendizaje).
+
+- UP4: 40% calificación del curso, evaluada mediante proyecto de aula (situación de aprendizaje, 25%) y selección de actividades (15%).
+
+El RA6 se dualizará totalmente, y su calificación será el 10% de la calificación del curso (esto es, 1 punto). Se documentará el trabajo desarrollado, tanto en el propio código como, en su caso, en un informe del que se hará entrega o bien se expondrá.
+
+La calificación del boletín de notas del trimestre 1 es orientativa y se obtendrá de las calificaciones de las UP1, UP2 y UP3 (que dado en conjunto suponen el 50% de la calificación del curso, a los meros efectos del boletín su valor se duplicará). La calificación se redondeará al entero inferior a los meros efectos del boletín, sin perjuicio de que los decimales se conserven para el cálculo de la calificación final del curso.
+
+La calificación de las actividades sufrirá una penalización de 0,5 puntos por cada día de retraso sobre la fecha máxima de entrega.
+
+La actitud, reflejada entre otros aspectos en el interés mostrado, la participación en clase y la asistencia tanto al módulo como a otras actividades realizadas en el centro, aunque sean en horario diferente al de clase, servirá para redondear la calificación final del curso.
+
+
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -212,7 +224,7 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+La calificación del RA dualizado (RA6) se realizará mediante entrega de memoria y/o exposición del trabajo efectuado en la empresa en relación al mismo.
 
 ### Recuperación: 
 
@@ -239,7 +251,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+No se prevén.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -247,6 +259,4 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Despliegue de aplicaciones web
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
 
-NO RELLENAR.

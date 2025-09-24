@@ -91,16 +91,21 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
 
 Se propone esta tabla
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Título                                               | Inicio    | Fin       |
+|--------|------------------------------------------------------|-----------|-----------|
+| 01     | UP01: Introducción al DIN                            | 08/09/2025| 20/09/2025|
+| 02     | UP02: Prototipado de una App                         | 21/09/2025| 21/10/2025|
+| 03     | UP03: Componentes con XML                            | 21/10/2025| 22/10/2025|
+| 04     | UP04: Interfaces en Android con Jetpack Compose      | 23/10/2025| 20/11/2025|
+| 05     | UP05: Testing                                        | 26/11/2025| 05/12/2025|
+| 06     | UP06: Criterios de Usabilidad                        | 07/01/2026| 20/01/2026|
+| 07     | UP07: Informes, Documentación y Distribución de Apps | 21/01/2026| 05/02/2026|
+
+
+
 
 ## Metodología del proceso de enseñanza-aprendizaje
 

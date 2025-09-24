@@ -79,16 +79,14 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Planifico mi PC   | 08/09/2025| 31/10/2025|
+| 02     | UP02: Monto mi PC     | 01/11/2025| 01/12/2025|
+| 03     | UP03: Mantengo mi PC   | 02/12/2025| 06/03/2026|
+| 04     | UP04: Perifericos del PC   | 09/03/2026| 03/05/2026|
+| 05     | UP05: Mirando al Futuro. Modding   | 04/05/2026| 05/06/2026|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -174,7 +172,14 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+
+$$
+Nota Final = (RA01 * 0,1) + (RA02 * 0,2) + (RA03 * 0,05) + (RA04 * 0,25) + (RA05 * 0,05) + (RA06 * 0,15) + (RA07 * 0,15) + (RA08 * 0,05)
+$$
+
+En cada Unidad de Programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas, ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota en hasta un 20%, proporcional al número de actividades no entregadas.
+
+En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se tendrá en cuenta este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva. 
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
