@@ -73,16 +73,14 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
 
 | Número | Título                                                    | Inicio    | Fin       |
 |--------|-----------------------------------------------------------|-----------|-----------|
-| 01     | UP01: Introducción DWEC                                   | 08/09/2025| 10/10/2025|
-| 02     | UP02: JavaScript. Sintaxis                                | 11/10/2025| 21/10/2025|
-| 03     | UP03: JavaScript. Objetos                                 | 11/10/2025| 21/10/2025|
-| 04     | UP04: JavaScript. BOM-DOM                                 | 22/10/2025| 20/12/2025|
-| 05     | UP05: JavaScript. Interactuación con el usuario, eventos  | 22/10/2025| 20/12/2025|
+| 01     | UP01: Introducción DWEC                                   | 08/09/2025| 20/09/2025|
+| 02     | UP02: JavaScript. Sintaxis                                | 21/09/2025| 21/10/2025|
+| 03     | UP03: JavaScript. Objetos                                 | 22/10/2025| 12/11/2025|
+| 04     | UP04: JavaScript. BOM-DOM                                 | 13/11/2025| 15/01/2026|
+| 05     | UP05: JavaScript. Interactuación con el usuario, eventos  | 16/01/2026| 16/02/2026|
 
 
 ## Metodología del proceso de enseñanza-aprendizaje
