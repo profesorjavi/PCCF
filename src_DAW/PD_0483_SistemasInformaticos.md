@@ -13,7 +13,7 @@ Tiene una correspondéncia de Créditos de 10.
 
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
-| Código| Descripción del estándar       |
+| Unidad de competencia| Descripción del estándar       |
 |-------|--------------------------------|
 | UC0223_3 | Configurar y explotar sistemas informáticos. |
 |<img width=200/>|<img width=500/>|
@@ -224,14 +224,10 @@ Para el alumnado que **no haya superado algún módulo o RA** se establecerá un
 - **Alumnos de segundo curso con módulos no superados de primero**: Se diseñará para que el alumnado lo pueda realizar simultáneamente con los módulos de segundo **sin garantizarse su asistencia a clase**. Dispondrá de **convocatoria ordinaria y extraordinaria**. 
 
 
-
 ### Convocatoria Ordinaria
 
-1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs 
-   durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
-2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo 
-   de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará
-   al calendario propuesto por el centro.
+1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
+2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará al calendario propuesto por el centro.
 
 ### Convocatoria Extraordinaria
 

@@ -78,16 +78,14 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
 
 | Número | Título                    | Inicio    | Fin       |
 |--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| 01     | UP01: Introducció als sistemes informàtics  | 08/09/2025| 05/10/2025|
+| 02     | UP02: SO Linux     | 06/10/2025| 30/11/2025|
+| 03     | UP03: SO Windows   | 01/12/2025| 08/03/2026|
+| 04     | UP04: Serveis en xarxa   | 09/03/2026| 08/06/2026|
+
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -173,7 +171,6 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -216,8 +213,9 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
-
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+* Si un RA se desarrolla completamente en la empresa, la calificación final coincidirá será la que el profesor considere una vez oida la opinión de la empresa y valorada la exposición final del trabajo realizado en empresa.
+* Si un RA se desarrolla parcialmente en la empresa y el resto en el aula, la calificación final será ponderada teniendo en cuenta los porcentajes del RA desarrollados en empresa o aula.
+ *(Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 × 0,20) + (7 × 0,80) = 7,2).*
 
 ### Recuperación: 
 
@@ -231,11 +229,8 @@ recuperación
 
 ### Convocatoria Ordinaria
 
-1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs 
-   durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
-2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo 
-   de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará
-   al calendario propuesto por el centro.
+1. Todo el alumnado tiene derecho a una Convocatoria Ordinaria, en el caso de que el alumnado haya superado todos los RAs durante la *evaluación continua*, se establecerá su calificación como la de la Convocatoria Ordinaria.
+2. Si hay RAs **no superados** durante la *evaluación continua*, el alumnado tiene derecho a una prueba que incluya dichos RAs con el objetivo de comprobar que ha adquirido los Resultados de Aprendizaje descritos en el Módulo. Esta prueba se ajustará    al calendario propuesto por el centro.
 
 ### Convocatoria Extraordinaria
 
@@ -244,14 +239,11 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+ - Asistencia a les Jornades InforSénia
+ - Visita Fira València
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
 ## Esquema General de Sistemas Informáticos
-
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
