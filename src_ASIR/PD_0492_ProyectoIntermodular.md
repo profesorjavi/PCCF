@@ -20,8 +20,8 @@ Estas Unidades de Programación se abordarán mediante el planteamiento de activ
 |¿Cuándo?|Tiempo de realización|
 |¿Dónde?|Lugar de realización, presentación o entrega|
 |¿Quién?|Individual o en grupo|
-|¿Cómo se va a evaluar? (Herramientas)||
-|Profesor responsable|Puede ser el del módulo profesiona de algún RA o el/la docente encargado/a del Proyecto Intermodular|
+|¿Cómo se va a evaluar?|Herramientas de evaluación utilizadas|
+|Docente responsable|Puede ser el/la del módulo profesional de algún RA o el/la docente encargado/a del Proyecto Intermodular|
 
 Todos los módulos del ciclo, tanto de primer como de segundo curso, son susceptibles de tratarse en las actividades planteadas en el Proyecto Intermodular.
 
