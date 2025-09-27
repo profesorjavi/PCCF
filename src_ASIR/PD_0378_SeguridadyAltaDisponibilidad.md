@@ -160,7 +160,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje (RA) se detalla en el Esquema General:
 
-Nota final = 0,2 × (RA1+RA2) + 0,2 × RA3 + 0,3 × RA4 + 0,1 × RA5 + 0,15 x RA6 + 0,05 x RA7 
+Nota final = 0,1 × RA1 + 0,1 x RA2 + 0,2 × RA3 + 0,3 × RA4 + 0,1 × RA5 + 0,15 x RA6 + 0,05 x RA7 
 
 En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, el 100% de la calificación se obtendrá a partir de pruebas objetivas. Además, se realizarán actividades prácticas de entrega obligatoria que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. La falta de entrega de estas actividades supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas.
 

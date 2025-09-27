@@ -8,16 +8,26 @@ Es un módulo de 100 horas.
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
+Dada la naturaleza de este módulo de nueva creación, se tratarán Unidades de Programación que permitirán alcanzar diferentes Resultados de Aprendizaje de varios módulos del ciclo formativo. 
 
-Se propone esta tabla
+Estas Unidades de Programación se abordarán mediante el planteamiento de actividades basadas en retos, para cada una de las cuales se especificarán los datos mostrados en la siguiente tabla:
 
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Aspecto a detallar | Descripción |
+|--------------------|---------....|
+|¿Qué?|Nombre de la actividad|
+|¿Para qué?|RA/Módulo profesional|
+|¿Cómo?|Individual o grupo, Soporte o formato, Instrucciones, Recursos necesarios|
+|¿Cuándo?|Tiempo de realización|
+|¿Dónde?|Lugar de realización, presentación o entrega|
+|¿Quién?|Individual o en grupo|
+|¿Cómo se va a evaluar? (Herramientas)||
+|Profesor responsable|Puede ser el del módulo profesiona de algún RA o el/la docente encargado/a del Proyecto Intermodular|
+
+Todos los módulos del ciclo, tanto de primer como de segundo curso, son susceptibles de tratarse en las actividades planteadas en el Proyecto Intermodular.
+
+Dado el caracter dinámico y flexible de la programación didáctica, las actividades/retos se irán configurando conforme avance el curso, de manera que puedan corresponder con contenidos relacionados con RAs de diferentes módulos que se están tratando en cada momento, asegurando así que el alumnado tiene ya adquiridos los conocimientos necesarios para enfrentarse a cada reto en cuestión.
+
+El detalle de todas las actividades/retos se reflejará en la Programación de Aula al final del curso y podrá servir de base para la Programación Didáctica del presente módulo en cursos posteriores.
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -140,7 +150,7 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+Se propondrá al alumnado la asistencia a las jornadas *Inf0rSenia 2026*.
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
