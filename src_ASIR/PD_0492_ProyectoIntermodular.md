@@ -13,7 +13,7 @@ Dada la naturaleza de este módulo de nueva creación, se tratarán Unidades de 
 Estas Unidades de Programación se abordarán mediante el planteamiento de actividades basadas en retos, para cada una de las cuales se especificarán los datos mostrados en la siguiente tabla:
 
 | Aspecto a detallar | Descripción |
-|--------------------|---------....|
+|--------------------|-------------|
 |¿Qué?|Nombre de la actividad|
 |¿Para qué?|RA/Módulo profesional|
 |¿Cómo?|Individual o grupo, Soporte o formato, Instrucciones, Recursos necesarios|
