@@ -99,7 +99,7 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 - **Escala del 1 al 10 sin decimales**: el redondeo o truncamiento de los decimales será a discreción del profesor que evalúa el módulo.
 
-- **Resultados de Aprendizaje (RA) en empresa**: serán calificados por la empresa como **“superado”** o **“no superado”**. En caso de “no superado”, el módulo podrá ser calificado por el profesor como **aprobado** o **suspenso**. Si se califica como suspenso, el informe deberá reflejar los RA en empresa que han sido superados y los que no.
+- **Resultados de Aprendizaje (RA) en empresa**: dado que este módulo no es susceptible de dualización no habrá Resultados de Aprendizaje evaluados en empresa.
 
 - **Nota final del Ciclo**: se calculará como la **media aritmética** de los módulos, excluyendo las convalidaciones sin nota.
 
@@ -111,7 +111,15 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+La calificación del presente módulo se calculará en base a todos los Resultados de Aprendizaje trabajados, de manera proporcional. 
+
+Cada actividad/reto realizado se valorará con una calificación entre 0 y 10.
+
+Posteriormente se elaborará una lista en la que aparecerán todos los Resultados de Aprendizaje que han sido abordados a lo largo del curso mediante las diferentes tareas/retos. Dependiendo del número de tareas/retos en las que aparezca cada Resultado de Aprendizaje, este tendrá un peso u otro (porcentaje) en la nota final del módulo.
+
+La nota de cada Resultado de Aprendizaje será la media aritmética de la nota de todas las actividades/retos en las que se trabaje dicho Resultado de Aprendizaje.
+
+La nota final del módulo se calculará en base a la nota de cada Resultado de Aprendizaje ponderada por el peso de dicho RA en el módulo.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -158,6 +166,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Inglés Profesional (GS)
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
