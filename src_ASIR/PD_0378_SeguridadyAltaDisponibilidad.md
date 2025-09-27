@@ -10,14 +10,11 @@ Técnico en Administración de Sistemas Informáticos y Redes.
 Tiene una correspondéncia de Créditos de 6.
 
 
-
 ## Relación entre los estándares de competencia y los módulos del ciclo formativo
 
 |Código| Descripción del estándar |
 |-----------------------|-------------|
 | UC0486_3 | Asegurar equipos informáticos. |
-|<img width=200/>|<img width=500/>|
-
 
 
 ## Resultados de Aprendizaje
@@ -33,8 +30,6 @@ Los **Resultados de Aprendizaje** relativos al módulo de Seguridad y Alta Dispo
 | RA05 |  Implanta servidores «proxy», aplicando criterios de configuración que garanticen el funcionamiento seguro del servicio. |
 | RA06 |  Implanta soluciones de alta disponibilidad empleando técnicas de virtualización y configurando los entornos de prueba. |
 | RA07 |  Reconoce la legislación y normativa sobre seguridad y protección de datos valorando su importancia. |
-|<img width=200/>|<img width=500/>|
-
 
 
 ## Objetivos Generales 
@@ -49,10 +44,6 @@ La formación del módulo contribuye a alcanzar los *Objetivos Generales del Cic
 | m | Aplicar técnicas de protección contra pérdidas de información, analizando planes de seguridad y necesidades de uso para asegurar los datos. |
 | o | Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento. |
 | p | Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación. |
-|<img width=100/>|<img width=500/>|
-
-
-
 
 
 ## Competencias del Título 
@@ -71,8 +62,6 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 | o | Mantener el espíritu de innovación y actualización en el ámbito de su trabajo para adaptarse a los cambios tecnológicos y organizativos de su entorno profesional. |
 | r | Gestionar su carrera profesional, analizando las oportunidades de empleo, autoempleo y de aprendizaje. |
 | s | Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable. |
-|<img width=100/>|<img width=500/>|
-
 
 
 ## Secuenciación de las Unidades de Programación. 
@@ -118,7 +107,6 @@ Se parte del reconocimiento de la diversidad como un valor y una oportunidad par
 Las adaptaciones específicas, tanto metodológicas como organizativas, se concretarán en las **Situaciones de Aprendizaje**, donde se detallarán las actuaciones necesarias para atender a las necesidades individuales del alumnado, siempre en coordinación con los servicios de orientación y el equipo docente.
 
 ## Evaluación del aprendizaje. 
-
 
 
 ### Principios y objeto de la evaluación 
