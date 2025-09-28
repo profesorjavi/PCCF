@@ -68,16 +68,17 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-| Número | Título                    							| Inicio    | Fin       |
-|--------|---------------------------							|-----------|-----------|
-| 01	 | UP01: Conceptos Previos							| 10/09/2025| 10/10/2025| 
-| 02	 | UP02: Caracterización de Redes						| 13/10/2025| 07/11/2025|
-| 03	 | UP03: Elementos de Interconexión						| 10/11/2025| 05/12/2025|
-| 04	 | UP04: Configuración y Administración de Switch				| 10/12/2026| 16/01/2026| 
-| 05	 | UP05: Configuración y Administración de Routers				| 19/01/2026| 20/02/2026| 
-| 06	 | UP06: Configuración y Administración de Protocolos de Encaminamiento Dinámico| 23/02/2026| 25/03/2026| 
-| 07	 | UP07: CONFIGURACIÓN DE REDES VIRTUALES					| 27/03/2026| 04/05/2026|
-| 08	 | UP08: CONFIGURACIÓN DE ACCESO A INTERNET DESDE UNA LAN			| 06/05/2026| 08/06/2026|
+| Número | Título                    | Inicio    | Fin       |
+|--------|---------------------------|-----------|-----------|
+| 01	 | UP01: Conceptos Previos| 10/09/2025| 10/10/2025|
+| 02	 | UP02: Caracterización de Redes| 13/10/2025| 07/11/2025|
+| 03	 | UP03: Elementos de Interconexión| 10/11/2025| 05/12/2025|
+| 04	 | UP04: Conmutadores| 10/12/2026| 16/01/2026|
+| 05	 | UP05: Encaminadores| 19/01/2026| 20/02/2026|
+| 06	 | UP06: Protocolos de Encaminamiento Dinámico 23/02/2026| 25/03/2026|
+| 07	 | UP07: Redes Virtuales| 27/03/2026| 04/05/2026|
+| 08	 | UP08: Acceso a Internet desde una LAN| 06/05/2026| 08/06/2026|
+
 
 
 ## Metodología del proceso de enseñanza-aprendizaje
