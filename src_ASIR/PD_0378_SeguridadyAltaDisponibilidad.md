@@ -70,8 +70,8 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 |--------|------------------------------------------------------------|-----------|-----------|
 | 01     | UP01: Adopción de pautas de seguridad informática          | 08/09/2025| 19/09/2025|
 | 02     | UP02: Criptografía                                         | 19/09/2025| 03/10/2025|
-| 03     | UP03: Técnicas de acceso remoto                            | 03/10/2025| 24/10/2025|
-| 04     | UP04: Seguridad activa y Hacking Ético                     | 24/10/2025| 13/11/2025|
+| 03     | UP03: Seguridad activa y Hacking Ético                     | 03/10/2025| 24/11/2025|
+| 04     | UP04: Técnicas de acceso remoto                            | 24/10/2025| 13/11/2025|
 | 05     | UP05: Instalación y configuración de cortafuegos           | 13/11/2025| 07/01/2026|
 | 06     | UP06: Instalación y configuración de proxies               | 07/11/2025| 19/01/2026|
 | 07     | UP07: Implantación de soluciones de alta disponibilidad    | 19/01/2026| 25/02/2026|
