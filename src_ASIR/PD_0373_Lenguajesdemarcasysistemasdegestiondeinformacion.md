@@ -58,16 +58,16 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
+| Número | Título                                               | Inicio    | Fin       |
+|--------|---------------------------	                         |-----------|-----------|
+| 01	 | UP01: Introducción a los lenguajes de marcas.          | 16/09/2025| 23/09/2025|
+| 02	 | UP02: LM para documentación y administración de sistemas: Markdown Y YAML | 30/09/2025| 07/10/2025|
+| 03	 | UP03: Fundamentos de XML		                         | 14/10/2025| 28/10/2025|
+| 04	 | UP04: Definición de esquemas y vocabularios XML        | 04/11/2025| 03/02/2026|
+| 05	 | UP05: Lenguajes de marcas en entornos web (HTML/XHTML) | 10/02/2026| 03/03/2026|
+| 06	 | UP06: Diseño Web con CSS, CSS3						       | 10/03/2026| 31/03/2026|
+| 07	 | UP07: Sistemas empresariales de gestión de información | 14/04/2026| 26/05/2026|
 
-Se propone esta tabla
-
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
