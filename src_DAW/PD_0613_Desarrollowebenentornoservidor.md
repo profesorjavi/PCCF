@@ -1,6 +1,6 @@
 \newpage
 
-# Programación didáctica: Módulo Desarrollo web en entorno servidor
+# Programación didáctica: Módulo Desarrollo Web en Entorno Servidor
 
 ## Datos identificativos y contextualización del módulo. 
 
@@ -274,5 +274,5 @@ Se planteará realizar un taller de programación de Robots en la Ciudad de las 
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
 
-## Esquema General de Desarrollo web en entorno servidor
+## Esquema General de Desarrollo Web en Entorno Servidor
 
