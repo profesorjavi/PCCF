@@ -88,16 +88,16 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
-
-Se propone esta tabla
-
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
+| Número | Título                                                      | Horas     | Dual      | Trimestre|
+|--------|-------------------------------------------------------------|:---------:|:---------:|:--------:|
+| 01     | UP01: Desarrollo Web en Entorno Servidor                    | 6         | 2         |1T        |
+| 02     | UP02: Lenguaje PHP                                          | 8,7       | 11,3      |1T/3T     |
+| 03     | UP03: Páginas Web. Estado, almacenamiento y seguridad       | 29,75     | 22,25     |1T/3T     |
+| 04     | UP04: PHPOO y patrones diseño                               | 13        | 7         |1T/3T     |
+| 05     | UP05: Acceso a datos                                        | 12,75     | 7,25      |1T/2T/3T  |
+| 06     | UP06: Servicios Web                                         | 18,8      | 15,2      |2T/3T     |
+| 07     | UP07: Aplicación Web con Laravel                            | 22        | 24        |2T/3T     |
+|        | **Total Horas**                                             |**111**    | **89**    |  
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
@@ -183,7 +183,11 @@ El alumnado podrá obtener las siguientes calificaciones:
 
 La ponderación de cada Resultado de Aprendizaje se indica en el Esquema General.
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación.
+**Nota final = $0,04 * RA1 + 0,04 * RA2 + 0,12 * RA3 + 0,2 * RA4 + 0,1 * RA5 + 0,1 * RA6 + 0,17 * RA7+ 0,12 * RA8 + 0,11 * RA9$**
+
+En cada unidad de programación se especificará cómo se evaluarán los Resultados de Aprendizaje correspondientes. De forma general, **el 100% de la calificación se obtendrá a partir de pruebas objetivas**. Además, se realizarán **actividades prácticas de entrega obligatoria** que permitirán al alumnado la comprensión y preparación de los contenidos que compondrán las pruebas objetivas ya que siempre estarán basadas en estas actividades. ***La falta de entrega de estas actividades supondrá la reducción de la nota proporcionalmente al número de actividades no entregadas***.
+
+En la convocatoria ordinaria, si el alumno ha mantenido el proceso de evaluación continua, se tendrá en cuenta este sistema de calificación. En caso contrario, así como en la evaluación extraordinaria, el 100% de cada RA se calificará a través de una prueba objetiva.
 
 ### Evaluación por RA y diseño de Unidades de Programación (UP) 
 
@@ -227,7 +231,15 @@ Esta presentación se puede simultanear, en su caso, con la presentación del Pr
 Para superar un RA dualizado se debe **superar tanto la parte impartida en el centro como la realizada en la empresa**. Se considerará *superado cuando la nota de cada una de las partes sea igual o mayor a 5*.
 
 
-!!! OBLIGATORIO ]: A RELLENAR POR EL DOCENTE -> Cálculo de la calificación de un RA Dualizado.
+La calificación de cada Resultado de Aprendizaje (RA) cuya evaluación se lleve a cabo de forma compartida entre la empresa y el instituto se determinará en función de la proporción de horas realizadas en cada uno de los ámbitos. En ambos casos, la valoración se expresará en una escala de 1 a 10, ponderándose posteriormente según el número de horas desarrolladas en la empresa y en el instituto, respectivamente.
+
+Si un RA o CE se desarrolla en un 20% en la empresa y en un 80% en el instituto, la **calificación final se obtendrá ponderando las notas asignadas en cada ámbito en esas proporciones**. (Ejemplo: Nota empresa = 8, Nota instituto = 7 → Calificación final = (8 * 0,20) + (7 * 0,80) = 7,2).
+
+En ningún caso se ha dualizado un RA o CE completo en este módulo para que sea de desarrollado íntegramente en la empresa (***se dualizan sólo CE y de forma parcial***). En caso de que lo hubiera, la calificación final coincidiría con la calificación resultante de la información del trabajo en la empresa y de la exposición que realizaran al acabar la Formación en Empresa. (Ejemplo: Nota empresa = 9 → Calificación final = 9)
+
+En el caso en que ***algún CE dualizado parcialmente no pueda ser evaluado en la empresa*** por causas imprevistas, **la calificación del mismo se corresponderá con el 100% de la evaluación del CE en el instituto**.
+
+La **calificación del RA o CE realizado parcialmente en la empresa durante la FE** se obtendrá en función de la ***información del trabajo en la empresa facilitada por el tutor en la empresa durante el seguimiento y la exposición del resultado de la Formación en Empresa que realizará el alumno al finalizarla***.
 
 ### Recuperación: 
 
@@ -254,7 +266,9 @@ descrito en el Proyecto Curricular de Ciclo Formativo.
 
 ## Actividades complementarias y extraescolares. 
 
-A RELLENAR POR DOCENTE
+Se propondrá al alumnado la asistencia a las jornadas Inf0rSenia 2026.
+
+Se planteará realizar un taller de programación de Robots en la Ciudad de las Artes y las Ciencias según disponibilidad
 
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
@@ -262,6 +276,3 @@ La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en es
 
 ## Esquema General de Desarrollo web en entorno servidor
 
-NOTA : Aquí se generará de manera automática la tabla a partir del Excel compartido con los RA, CE y Horas Asignadas. 
-
-NO RELLENAR.
