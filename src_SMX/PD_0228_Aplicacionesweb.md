@@ -63,16 +63,15 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 
 ## Secuenciación de las Unidades de Programación. 
 
-A RELLENAR POR DOCENTE
+| Número | Título                    				| Inicio    | Fin       |
+|--------|---------------------------				|-----------|-----------|
+| 01	 | UP01: Internet-Sevidores Web-HTML-CSS.		| 11/09/2025| 19/09/2025|
+| 02	 | UP02: Diseño y Maquetación de Páginas Web: HTML5+CSS3| 25/09/2025| 14/11/2025|
+| 03	 | UP03: Gestores de contenidos o CMS			| 20/11/2025| 19/12/2025|
+| 04	 | UP04: Gestores de Aprendizaje a Distancia		| 08/01/2026| 06/02/2026|
+| 05	 | UP05: Aplicaciones Web de Oficina y Escritorio	| 12/02/2026| 24/04/2026|
+| 06	 | UP06: Servicios de Gestión de Archivos Web		| 30/04/2026| 12/06/2026|
 
-Se propone esta tabla
-
-| Número | Título                    | Inicio    | Fin       |
-|--------|---------------------------|-----------|-----------|
-| 01     | UP01: Introducción a vim  | 08/09/2025| 10/10/2025|
-| 02     | UP02: Más allá de :wq     | 11/10/2025| 21/10/2025|
-| 03     | UP03: El poder de RegEx   | 11/10/2025| 21/10/2025|
-| 04     | UP04: El camino del zen   | 22/10/2025| 20/12/2025|
 
 ## Metodología del proceso de enseñanza-aprendizaje
 
