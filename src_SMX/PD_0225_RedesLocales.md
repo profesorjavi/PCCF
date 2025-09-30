@@ -87,9 +87,7 @@ La formación del módulo contribuye a alcanzar las *Competencias del Título* s
 | 06     | UP06: Configuración de los equipos de red    | 29/01/2026| 04/03/2026|
 | 07     | UP07: Interconexión de equipos    | 05/03/2026| 23/04/2026|
 | 08     | UP08: Resolución de incidencias en una LAN     | 27/04/2026| 28/05/2026|
-| 09     | UP09: Prevención de Riesgos Laborales y protección medioambiental    | - | - |
 
-   NOTA: La *UP09* es transversal y se trabaja a lo largo de todas las Unidades de Programación anteriores.
 
 
 ## Metodología del proceso de enseñanza-aprendizaje
