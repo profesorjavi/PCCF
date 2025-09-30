@@ -1,6 +1,6 @@
 \newpage
 
-# Marco Normativo Específico para el Ciclo de Desarrollo de Aplicaciones Web
+# Marco Normativo Específico para el Ciclo de Sistemas Microinformáticos y Redes
 
 El Marco Normativo vigente que se ha tenido en cuenta para el desarrollo del proyecto curricular 
 está formado por los siguientes documentos:
