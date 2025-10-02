@@ -4,7 +4,7 @@
 
 ## Datos identificativos y contextualización del módulo. 
 
-Es un módulo de 34 horas que tiene una continuidad en el segundo curso hasta las 134 horas.
+Es un módulo de 100 horas, que es la continuación del Módulo de 34 horas que se imparte durante el primer curso.
 
 ## Secuenciación de las Unidades de Programación. 
 
