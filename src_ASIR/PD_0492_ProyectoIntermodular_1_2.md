@@ -106,6 +106,8 @@ El alumnado podrá obtener las siguientes calificaciones:
 - **Mención honorífica**: se otorga a quienes obtienen un **10 en un módulo**, con un máximo del **10% del grupo**.
 
 - **Matrícula de honor**: se concede a quienes obtienen una **nota final de Ciclo igual o superior a 9**, con un máximo de **2 en el alumnado de Ciclo Medio** y **3 en Ciclo Superior**.
+## Esquema General de Inglés Profesional (GS)
+
 
 - **Calificaciones parciales**: cada docente incluirá un comentario explicativo sobre la calificación parcial obtenida por el alumnado, indicando que esta es **provisional** y tiene carácter **orientativo** respecto al estado del proceso de aprendizaje.
 
@@ -163,6 +165,4 @@ Se propondrá al alumnado la asistencia a las jornadas *Inf0rSenia 2026*.
 ## Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente. 
 
 La evaluación del propio proceso de *enseñanza-aprendizaje* contempladas en esta programación se fundamentan en los principios recogidos en el Proyecto Curricular del Ciclo Formativo (PCCF), que establece un marco común para garantizar una respuesta educativa inclusiva, equitativa y adaptada a las características del alumnado.
-
-## Esquema General de Inglés Profesional (GS)
 
