@@ -47,10 +47,11 @@ jobs:
         name: PDFs-PCCFs
         path: PDFS/ 
 
-    - name: Copiar los PDFs a la carpeta releases/
+    - name: Copiar los PDFs a la carpeta releases con fecha
       run: |
-        mkdir -p releases
-        cp PDFS/*.pdf releases/
+        DATE=$(date +'%Y-%m-%d')
+        mkdir -p releases/$DATE
+        cp PDFS/*.pdf releases/$DATE/
 
     - name: Configurar Git
       run: |
