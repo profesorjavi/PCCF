@@ -49,7 +49,7 @@ jobs:
 
     - name: Copiar los PDFs a la carpeta releases con fecha
       run: |
-        DATE=$(date +'%Y-%m-%d')
+        DATE=$(date +'%Y-%m-%d_%H-%M-%S')
         mkdir -p releases/$DATE
         cp PDFS/*.pdf releases/$DATE/
 
